@@ -1,0 +1,312 @@
+"ccode","oracle_name","odoo_name","match","fuzzy_score","oracle_balance","odoo_balance","difference","known_mgr_diff","classification","last_activity","user_note"
+"1","RETAIL SALE","Retail Sale","exact","","145825","0","-145825","","NEW","2026-07-15",""
+"14","ZIP","ZIP","exact","","55905","3417290","3361385","","NEW","2026-07-31",""
+"17","AHMED RAZA AUTOS REHMANIA MOR","Ahmed Raza Autos Rehmania Mor","exact","","12210","21210","9000","0","NEW","2026-07-24",
+"20","ALI AUTOS ISLAM CHOWK","Ali Autos Islam Chowk","exact","","47185","-53064","-100249","0","NEW","2026-07-07",
+"23","AMJAD NOOR","Amjad Noor","exact","","105155","-9305","-114460","-15855","NEW","2026-04-28",
+"24","AYAN AUTOS CLIFTON","Ayan Autos Clifton","exact","","31094","-2436","-33530","","NEW","2026-03-18",""
+"25","AZAN AUTO BADIN","Azan Auto Badin","exact","","113001","183850","70849","5950","NEW","2026-08-01",
+"26","AZAN AUTOS JIMMY LANDHI","Azan Autos Jimmy Landhi","exact","","102072.5","-3050","-105122.5","-24000","NEW","2026-07-20",
+"27","B.S BAKHTAWAR GOTH","B.S Bakhtawar Goth","exact","","0","0","0","0","AGREES","2026-07-13",
+"28","SHOAIB AHMED ZIP 1","Shoaib Bhai ZIP 1","name_map","","9500","10000","500","0","NEW","2026-06-12",
+"29","BILAL WHEEL THROUGH SACHAL","Bilal Wheel Through Sachal","exact","","0","0","0","","AGREES","2026-02-02",""
+"32","DAWOOD SULTAN AUTOS ORANGI TOW","","","","5600","","","","NOT IN ODOO","2026-06-16",""
+"34","F.A AUTOS THATTA","F.A Autos Thatta","exact","","133220","-1780","-135000","","NEW","2026-04-04",""
+"36","HADIA K1 NORTH NAZIMABAD","Hadia K1 North Nazimabad","exact","","79210","48350","-30860","3250","NEW","2026-07-27",
+"37","HANIF SUPPLIER","Hanif Supplier","exact","","28336","-8914","-37250","","NEW","2026-02-02",""
+"38","IBRAHIM KORANGI (SHOAIB)","Ibrahim Korangi (Shoaib)","exact","","0","0","0","","AGREES","2026-03-30",""
+"42","KHATAOMAL PANGRIO","Khataomal Pangrio","exact","","143500","243500","100000","37000","NEW","2026-07-14",
+"46","MARHABA AUTOS ORANGI DUA CHOWK","Marhaba Autos Orangi Dua Chowk","exact","","0","0","0","","AGREES","2026-01-06",""
+"47","MASHOOD SUPPLIER","Mashood Supplier","exact","","3800","0","-3800","","NEW","2026-07-11",""
+"51","NEW KAKAR AUTOS PIDC","New Kakar Autos PIDC","exact","","109350","133750","24400","0","NEW","2026-07-31",
+"52","NOOR AUTOS QUAIDABAD","Noor Autos Quaidabad","exact","","0","0","0","","AGREES","2026-06-08",""
+"53","NOORANI AUTOS BADIN","Noorani Autos Badin","exact","","221350","0","-221350","-68400","NEW","2026-07-24",
+"56","RAHIM BHAI CLASSIC MOTORCYCLE","Rahim Bhai Classic Motorcycle","exact","","85560","135560","50000","50000","KNOWN (Mgr diff)","2026-05-15",
+"57","RANA AUTOS LANDHI","Rana Autos Landhi","exact","","358399","436399","78000","0","NEW","2026-07-31",
+"58","RAZA AUTOS KORANGI","Raza Autos Korangi","exact","","63900","-41880","-105780","0","NEW","2026-07-13",
+"59","RIDER AUTO PARTS","Rider Auto Parts","exact","","546714","596714","50000","0","NEW","2026-07-15",
+"60","RIZWAN SUPPLIER KORANGI","Rizwan Supplier Korangi","exact","","106900.9","81181","-25719.9","0","NEW","2026-07-31",
+"61","SAAD HUMAYUN TRADERS","Saad Humayun Traders","exact","","0","0","0","","AGREES","2026-03-14",""
+"62","SADIQ SONS QUETTA","Sadiq Sons Quetta","exact","","0","0","0","","AGREES","2026-04-07",""
+"65","SHANDAR AUTOS NAUKOT","Shandar Autos Naukot","exact","","0","0","0","","AGREES","2026-02-28",""
+"67","JAMEEL AUTOS LEE MARKET","Jameel Autos Lee Market","exact","","8500","50500","42000","0","NEW","2026-07-30",
+"68","ARIF AUTOS LANDHI","Arif Autos Landhi","exact","","272351","198350","-74001","0","NEW","2026-07-31",
+"69","WAQAS AUTOS ISLAM CHOWK","Waqas Autos Islam Chowk","exact","","513681.5","423291.5","-90390","10000","NEW","2026-07-24",
+"70","UNIQUE AUTOS LANDHI","Unique Auto Landhi","name_map","","234640","197100","-37540","0","NEW","2026-07-31",
+"71","HAMZA KHAN AUTOS ORANGI TOWN","Hamza Khan Autos Orangi Town","exact","","114280","43570","-70710","9750","NEW","2026-07-28",
+"72","PRINCE AUTOS SAKRO","Prince Autos Sakro","exact","","3000","3000","0","0","AGREES","2026-04-15",
+"73","HUSSAIN AUTO SHAH FAISAL","Hussain Autos Shah Faisal","name_map","","222295","222295","0","7220","AGREES","2026-06-11",
+"74","B.S QAZI AHMED","BS Qazi Ahmed","exact","","0","0","0","","AGREES","2026-03-30",""
+"75","YASIR AUTOS SACHAL GOTH","Yasir Autos Sachal Goth","exact","","17250","4750","-12500","0","NEW","2026-07-13",
+"76","ANWER ENGINERING","","","","2450","","","","NOT IN ODOO","2026-07-06",""
+"77","MALIK AUTO LINES AREA","Malik Auto Lines Area","exact","","44020","24620","-19400","0","NEW","2026-07-30",
+"78","MARWAT AUTO SCOUT COLONY","Marwat Autos Scout Colony","fuzzy","0.955","7050","0","-7050","","NEW","2026-07-27",""
+"79","REHMAN AUTO AJMEER NAGRI","Rehman Autos Ajmer Nagri","name_map","","13810","14810","1000","-4000","NEW","2026-07-13",
+"80","HUSSAIN AUTO AJMEER NAGRI","Hussain Autos Ajmer Nagri","fuzzy","0.909","30825","60825","30000","","NEW","2026-07-27",""
+"81","TAYYABA AUTO SURJANI","Tayyaba Surjani","name_map","","66600","58600","-8000","0","NEW","2026-07-20",
+"82","JUNAID AUTO AGRA TAJ","Junaid Autos Agra Taj","name_map","","61852","61400","-452","0","NEW","2026-07-30",
+"83","SINDH KOHLI SAMARO","Sindh Kohli Samaro","exact","","25250","7000","-18250","-28250","NEW","2026-07-24",
+"86","KAIZEN","","","","68530","","","","NOT IN ODOO","2026-06-29",""
+"89","WAQAS TYRE TUBE ISLAM CHOWK","Waqas Tyre Tube Islam Chowk","exact","","0","-8200","-8200","","NEW","2026-06-23",""
+"90","HAMMAD SURJANI","Hammad Surjani","exact","","50","50","0","0","AGREES","2026-05-07",
+"91","ADNAN SURJANI 7B","Adnan Surjani 7B","exact","","350","350","0","0","AGREES","2026-05-21",
+"92","OSAMA ISLAM CHOWK","Osama Islam Chowk","exact","","13710","41710","28000","0","NEW","2026-07-28",
+"93","ABBAS AUTO GULLBURG","Abbas Auto Gulberg","fuzzy","0.882","0","0","0","","AGREES","2026-04-07",""
+"94","SHAMS BHAI","","","","16860","","","","NOT IN ODOO","2026-07-16",""
+"96","GHAZI AUTOS GOLARCHI","Ghazi Autos Golarchi","exact","","45100","18700","-26400","-26400","KNOWN (Mgr diff)","2026-07-02",
+"97","BHITTAI AUTOS SAMARO","Bhittai Autos Samaro","exact","","70500","70491","-9","-9","KNOWN (Mgr diff)","2026-06-12",
+"98","ASLAM AUTOS MARIPUR","Aslam Autos Maripur","exact","","165950","23600","-142350","0","NEW","2026-07-23",
+"99","FAISAL AUTOS KORANGI","Faisal Autos Korangi","exact","","720","720","0","0","AGREES","2026-05-04",
+"101","A.R AUTOS BAGH-E-KORANGI","A.R Autos Bagh-e-Korangi","exact","","66370","57670","-8700","-5450","NEW","2026-07-28","this is some sale return difference, all payments have been reconciled"
+"102","SALEEM MAMU","Mamu","name_map","","0","5280","5280","5280","KNOWN (Mgr diff)","2026-07-07",
+"103","GHOUSIA AUTO JHUDDO","Ghosia Jhudoo","name_map","","37400","37400","0","0","AGREES","2026-06-22",
+"104","HAMZA AUTO MOSMIYAT","Al-Hamza Autos Mosamiyat","name_map","","45080","57280","12200","0","NEW","2026-07-29",
+"105","A.H AUTO ORANGI L BLOCK","A.H Autos Orangi L Block","name_map","","7055","3705","-3350","-3000","NEW","2026-06-30","24 april 3000 payment received to be added in naveed"
+"106","HASAN AUTO NAZIA SQUARE","Hasan Autos Nazia Square","fuzzy","0.952","0","0","0","","AGREES","2026-05-04",""
+"107","NIZAM AUTO MAYMAR","Nizam Autos Maymar","name_map","","7650","7650","0","0","AGREES","2026-06-29",
+"108","SALEEM MEMON MARKET","","","","0","","","","NOT IN ODOO","2026-01-20",""
+"109","BABU AUTO SINDHI HOTEL","Babu Autos Sindhi Hotel","name_map","","109240","67290","-41950","-10000","NEW","2026-07-22",
+"110","TALHA QALANDRIYA","Talha Qalandriya","exact","","0","0","0","","AGREES","2026-02-25",""
+"111","HAMZA AUTO SURJANI","Hamza Autos Surjani","name_map","","15900","18400","2500","0","NEW","2026-07-13",
+"112","RAJPUT AUTO SABRI CHOWK ORANGI","Rajput Autos Sabri Chowk","name_map","","190180","38900","-151280","0","NEW","2026-07-21",
+"113","QALANDRI AUTO LANDHI","Qalandri Autos Landhi","name_map","","75","75","0","0","AGREES","2026-03-30",
+"114","TAJ AUTO MEHRAN TOWN 1","Taj Autos Mehran Town","name_map","","26265","18815","-7450","0","NEW","2026-07-30",
+"115","HONDA KARACHI PAKISTAN CHOWK","Honda Autos Karachi Pakistan Chowk","name_map","","82755","107955","25200","5200","NEW","2026-07-25",
+"116","ASIF SUPPLIER ZIP 1","Bilal Supplier","name_map","","121005","98310","-22695","-10000","NEW","2026-07-30",
+"117","JAFFER B CLOCK TOWER(SHOAIB)","","","","0","","","","NOT IN ODOO","2026-02-24",""
+"118","OSAMA NORTH KARACHI","Osama North Karachi","exact","","-3000","-3000","0","","AGREES","2026-04-15",""
+"119","KARTAR AUTO CHOUARJAMALI","Kartar Autos Chouhar Jamali","name_map","","0","7500","7500","0","NEW","2026-07-15",
+"120","BHATTI AUTO GULSHAN BLK 2","Bhatti Autos Gulshan Block 2","name_map","","8300","14300","6000","0","NEW","2026-07-28",
+"121","AL-KARAM AUTO MARKET","Al-Karam Auto Market","exact","","900","900","0","0","AGREES","2026-04-29",
+"122","NASIR AUTO ORANGZAIB MARKET","Nasir Autos Orangzaib Market","name_map","","50","50","0","0","AGREES","2026-04-01",
+"123","LUCKY AUTO WATER PUMP","Lucky Autos WaterPump","name_map","","25000","26000","1000","0","NEW","2026-07-30",
+"125","MADINA AUTO SAFORA","","","","16850","","","","NOT IN ODOO","2026-08-01",""
+"126","ALAM AUTO GODHRA","Alam Autos Godra","fuzzy","0.857","0","0","0","","AGREES","2026-03-04",""
+"127","ZHOULI ENGINEERING","","","","184083.02","","","","NOT IN ODOO","2026-01-30",""
+"128","ZAIB AUTO WATER PUMP","Zaib Autos Waterpump","name_map","","-15460","14740","30200","-25000","NEW","2026-07-21",
+"129","B.S AUTO AZIZABAD","B.S Autos Azizabad","name_map","","19950","17050","-2900","0","NEW","2026-07-09",
+"130","ALVI AUTO BALDIA 4 NUMBER","Alvi Autos Baldia 4 No.","name_map","","38100","38100","0","0","AGREES","2026-06-09",
+"132","ADNAN AUTO FAST","Adnan Auto fast Waterpump","name_map","","215500","262700","47200","-28500","NEW","2026-07-30","invoice created on 4 may created on manager zip spoke long nipple quantity 80 value 28,500"
+"133","YOUSUF AUTO SATO MAIL","Yousuf Auto Sato Mal","name_map","","40560","60560","20000","0","NEW","2026-07-24",
+"134","SAEED BHAI PLAZA","Saeed Bhai Plaza","exact","","0","0","0","","AGREES","2026-02-10",""
+"137","KHAN SHAHRUKH AUTO KORANGI","Khan Shahrukh Autos Korangi","name_map","","60600","5050","-55550","0","NEW","2026-07-20",
+"138","ASIM BROTHERS MARKET","Asim Brothers Market","exact","","0","20800","20800","10000","NEW","2026-07-17",
+"139","IQBAL AUTO BALDIA","Iqbal Autos Baldia 4 No.","name_map","","980","-6020","-7000","-7000","KNOWN (Mgr diff)","2026-06-02",
+"140","MAMA A-1 GULSHAN 13D","Mama A-1 Gulshan 13-D","exact","","60","5060","5000","5000","KNOWN (Mgr diff)","2026-03-30",
+"141","ALI AUTO MEHMODABAD","Ali Break Shoe Qayyumabad","name_map","","19320","13320","-6000","-15000","NEW","2026-07-17","22 may payment of 15000 not recorded by shoaib"
+"142","MADINA AUTO AZIZABAD","Madina Auto Azizabad","exact","","8690","15690","7000","7000","KNOWN (Mgr diff)","2026-06-13",
+"144","TAJ AUTO MEHRAN TOWN 2","Taj Autos Mehran Town No. 2","name_map","","29575","41375","11800","-3600","NEW","2026-07-30",
+"145","HUMA AUTO KORANGI","Huma Autos Korangi","name_map","","1950","1950","0","0","AGREES","2026-04-30",
+"146","ATTARI AUTO KORANGI","","","","-500","","","","NOT IN ODOO","2026-05-04",""
+"147","JIJAL AUTO GHARO","Jijal Autos Gharo","fuzzy","0.933","0","0","0","","AGREES","2026-04-22",""
+"148","IRFAN AUTO SHAH FAISAL","Irfan Auto Shah Faisal","exact","","23813","48813","25000","0","NEW","2026-07-31",
+"149","SHEIKH AUTO PEHALWAN GOTH","Sheikh Auto Pehalwan Goth","exact","","97640","27640","-70000","0","NEW","2026-07-28",
+"150","M UMER BADIN","M Umer Badeen","name_map","","492760","302800","-189960","0","NEW","2026-07-29",
+"153","JUNAID AUTO SHAHFAISAL","Junaid Autos Shah Faisal","name_map","","85663.5","20273","-65390.5","0","NEW","2026-07-31",
+"154","HAFEEZ AUTO KHAN BELA","Hafeez Autos Khan Bela","name_map","","131000","131000","0","0","AGREES","2026-06-18",
+"155","HAFEEZ ENGINEERING WORKS LHR","","","","132200","","","","NOT IN ODOO","2026-07-16",""
+"156","SUMAIR AUTO GOLIMAR","Sumair Autos Golimar","name_map","","84644.6","21900","-62744.6","-20000","NEW","2026-07-27",
+"157","ASGHER AUTO UP","Asgher Autos UP","name_map","","119300","279300","160000","160000","KNOWN (Mgr diff)","2026-06-15",
+"158","PAKISTAN AUTO QUAIDABAD","Pakistan Autos Quaidabad","name_map","","35225","28925","-6300","0","NEW","2026-07-27",
+"159","WAQAS AUTO BUFFER ZONE","Waqas Autos Buffer Zone","name_map","","12175","12175","0","0","AGREES","2026-06-17",
+"160","HAJI IQBAL QURESHI U.P","Haji Iqbal Qureshi Autos UP","name_map","","25000","25000","0","0","AGREES","2026-05-22",
+"161","SHAYAN AUTO U.P","Shayan Autos UP","name_map","","18235","43235","25000","4450","NEW","2026-07-30",
+"162","M.S MURAD ORANGI","M.S Murad Orangi","exact","","140","140","0","0","AGREES","2026-06-02",
+"163","HAMID LHR","","","","8700","","","","NOT IN ODOO","2026-07-16",""
+"164","STAR AUTO MAYMAR","Star Autos Maymar","name_map","","78375","27100","-51275","3100","NEW","2026-07-20",
+"165","ORANGZAIB AUTO SHEDAD PUR","Orangzaib Autos Shahdadpur","fuzzy","0.875","0","0","0","","AGREES","2026-04-27",""
+"166","M.A AUTO VINDER","M.A Autos Vinder","fuzzy","0.923","22650","14200","-8450","","NEW","2026-07-27",""
+"167","QADRI AUTO SHAH FAISAL","Qadri Autos Shah Faisal","name_map","","30355","45355","15000","0","NEW","2026-07-31",
+"168","B.S AUTO QUAIDABAD","B.S Autos Quaidabad","fuzzy","0.938","49000","101750","52750","","NEW","2026-07-30",""
+"169","TAYYAB AUTO MEHMODABAD","Tayyab Autos Mehmoodabad","name_map","","1600","1600","0","0","AGREES","2026-06-29",
+"170","ABDUL HADI AUTO DRIG ROAD","Abdul Hadi Autos Drig Road","name_map","","19975","31975","12000","0","NEW","2026-07-31",
+"171","MAMA JAMALI AUTO BADIN","Mama Jamali Autos Badin","name_map","","14000","44000","30000","0","NEW","2026-07-27",
+"172","FINAL AUTO MARKET","Final Autos Market","fuzzy","0.938","0","0","0","","AGREES","2026-04-13",""
+"173","B.S AUTO FARZAN BAK KORANGI","B.S Autos Farzan Bakery Korangi","name_map","","16975","24725","7750","0","NEW","2026-07-30",
+"174","FAROOQ AUTO SHAH FAISAL","Farooq Autos Shah Faisal","name_map","","12000","20000","8000","0","NEW","2026-07-17",
+"175","JAPAN AUTO WATER PUMP","Japan Autos Water Pump","name_map","","1040","1040","0","0","AGREES","2026-05-25",
+"176","ANSARI AUTO DASTAGIR","Ansari Autos Dastagir","name_map","","2951","15851","12900","2000","NEW","2026-07-27","2000 payment differnce not recoded by akber in manager"
+"177","FARHAN AUTO WATER PUMP","Farhan Autos Water Pump","name_map","","680","1680","1000","1000","KNOWN (Mgr diff)","2026-05-07",
+"178","B.S ALIYAN AUTO WATER PUMP","B.S Aliyan Autos Water Pump","name_map","","18410","41580","23170","2000","NEW","2026-07-30",
+"179","A.W AUTO WATER PUMP","A.W Autos Water Pump","fuzzy","0.938","16140","8740","-7400","","NEW","2026-04-27",""
+"180","ARSALAN AUTO 13D GULLSHAN","Arsalan Autos 13-D Gulshan","name_map","","0","9450","9450","0","NEW","2026-07-22",
+"181","MAKKA AUTO KORANGI 3 NUMBER","Makka Autos Korangi 3 Number","name_map","","11550","26550","15000","4200","NEW","2026-07-30",
+"182","SHAMA AUTO ELECTRIC W/P","Shama Autos Electric Waterpump","name_map","","1200","2200","1000","1000","KNOWN (Mgr diff)","2026-06-23",
+"183","M.A AUTO LIYARI 36","M.A Autos Liyari 36","name_map","","50","50","0","0","AGREES","2026-05-06",
+"184","NEW-RIYAZ AUTO LIYARI 36","New Riyaz Autos Liyari 36","name_map","","1750","1750","0","0","AGREES","2026-05-20",
+"185","R.R AUTO SURJANI","R.R Autos Surjani","name_map","","58350","58350","0","0","AGREES","2026-06-13",
+"186","MAMA ASHFAQ BADIN","Mama Ashfaq Badin","exact","","0","1090","1090","0","NEW","2026-07-22",
+"187","NASEER AUTO VINDER","Naseer Auto Vinder","exact","","45660","31200","-14460","0","NEW","2026-07-18",
+"188","ARSALAN IRSHAD LHR","","","","2600","","","","NOT IN ODOO","2026-06-08",""
+"189","UBAID AUTO GULLSHAN 13D","","","","12430","","","","NOT IN ODOO","2026-07-09",""
+"190","ASIF AUTO SABZI MANDI","Asif Autos Sabzi Mandi","name_map","","15975","21015","5040","3645","NEW","2026-07-20",
+"191","SHAFI AUTO GULSHAN IQBAL","Shafi Auto Gulshan Iqbal","exact","","0","-10500","-10500","0","NEW","2026-07-02",
+"192","SUBHAN AUTO GULSHAN 13D","Subhan Auto Gulshan 13D","exact","","13039.6","24750","11710.4","-1000","NEW","2026-07-30",
+"193","KHAN AUTO PEOPELS CHOWRANGI","Khan Autos Peoples Chowrangi","name_map","","23900","6500","-17400","2000","NEW","2026-04-10",
+"194","HAMZA KHAN WHEEL RIM","Hamza Khan Autos Islam Chowk (Wheel Rim)","name_map","","24800","25050","250","250","KNOWN (Mgr diff)","2026-06-16",
+"195","FARHAN W/P WHEEL RIM","Farhan Autos Water Pump (Wheel Rim)","name_map","","920","920","0","0","AGREES","2026-04-21",
+"196","MAMA A-1 13D WHEEL RIM","","","","0","","","","NOT IN ODOO","2026-05-22",""
+"197","ALI MEHMODABAD WHEEL RIM","Ali Break Shoe Qayyumabad (Wheel Rim)","name_map","","1780","1780","0","0","AGREES","2026-06-12",
+"198","KHAN SHAHRUKH W/RIM","","","","-7580","","","","NOT IN ODOO","2026-04-16",""
+"199","SUFI BILAL COLONY KORANGI","Sufi Bilal Colony (Wheel Rim)","name_map","","27650","47650","20000","0","NEW","2026-07-30",
+"200","AZAN LANDHI W/RIM","","","","0","","","","NOT IN ODOO","2026-04-20",""
+"201","SUMAIR GOLIMAR W/RIM","Sumair Autos Golimar (Wheel Rim)","name_map","","880","20880","20000","20000","KNOWN (Mgr diff)","2026-04-10",
+"202","RANA LANDHI W/RIM","Rana Autos Landhi (Wheel Rim)","name_map","","960","960","0","0","AGREES","2026-04-09",
+"203","MASHALLAH WATER PUMP W/RIM","","","","0","","","","NOT IN ODOO","2026-04-14",""
+"204","MADINA AUTO AL-ASIF SQUARE","Madina Auto Al-Asif Square","exact","","45990","132490","86500","","NEW","2026-07-25",""
+"205","WAQAS TYRE ORANGI W/RIM","Waqar Tyre Shop (Wheel Rim)","name_map","","10800","11050","250","250","KNOWN (Mgr diff)","2026-06-23",
+"206","AKBER SUZUKI","","","","2000","","","","NOT IN ODOO","2026-07-01",""
+"207","B.S KORANGI 4 POOL","B.S Korangi 4 POL (Shoaib)","name_map","","7550","20550","13000","0","NEW","2026-07-23",
+"208","DANISH AUTO KORANGI 51C","","","","0","","","","NOT IN ODOO","2026-05-07",""
+"209","R-K AUTO MARKET","R.K Auto Market (Shoaib)","name_map","","10000","1000","-9000","500","NEW","2026-07-31",
+"210","SHAH JI AUTO PEOPELS CHOWK","Shah Ji Autos Peoples Chowk","name_map","","1745","-1555","-3300","-3255","NEW","2026-06-29",
+"211","ZAFAR AUTO SABZI MANDI","Zafar Autos Sabzi Mandi","name_map","","990","15990","15000","0","NEW","2026-07-20",
+"213","YOUSUF AUTO GULLSHAN 13D","Yousuf Autos Gulshan 13 D","name_map","","23091.1","27355","4263.9","-18350","NEW","2026-07-31",
+"214","YOUSUF AUTO 13D W/RIM","","","","0","","","","NOT IN ODOO","2026-04-06",""
+"215","M/S AUTO GULLSHAN 13D","M/S Auto Gulshan 13-D","name_map","","48000","77800","29800","0","NEW","2026-07-23",
+"216","M/S AUTO 13D W/RIM","M/S Auto Gulshan 13-D (Wheel Rim)","name_map","","26850","10650","-16200","0","NEW","2026-07-17",
+"217","BISMILLAH AUTO WATER PUMP","Bismillah Autos Water Pump","name_map","","65290","31390","-33900","0","NEW","2026-07-30",
+"218","B.S ALIYAN WATER PUMP W/RIM","B.S Aliyan Autos Water Pump ( Wheel Rim)","name_map","","8120","8120","0","0","AGREES","2026-06-27",
+"219","I.S AUTO PEHALWAN GOTH","I.S Auto Pehalwan Goth","exact","","0","0","0","","AGREES","2026-05-26",""
+"220","SHAFI AUTO MEMON GOTH","Shafi Auto Memon Goth","exact","","106610","99610","-7000","0","NEW","2026-07-31",
+"221","WAJAHAT SUPPLIER MARKET","Wajahat Supplier Market","exact","","0","46000","46000","46000","KNOWN (Mgr diff)","2026-07-07",
+"222","M.A AUTO UP","M.A Autos UP","name_map","","353613.5","30380","-323233.5","0","NEW","2026-07-15",
+"223","ABID AUTO LUCKY STAR","Abid Autos Lucky Star","name_map","","17050","22550","5500","0","NEW","2026-07-23",
+"224","TIGER","Tiger","exact","","0","0","0","","AGREES","2026-04-16",""
+"226","QISMAT AUTO TANDO GHULAM ALI","Qismat Autos Tando Ghulam Ali","name_map","","15950","31950","16000","0","NEW","2026-07-15",
+"227","HASNAIN AUTO KORANGI 51 A","Hasnain Autos Korangi 51-A","name_map","","21480","31480","10000","1300","NEW","2026-07-23",
+"228","KHALIL AUTO RABIA CITY","Khalil Auto Rabia City","exact","","27500","0","-27500","-5000","NEW","2026-07-20",
+"229","IMRAN AUTO FAQEERA GOTH","Imran Autos Faqeera Goth","name_map","","50000","77400","27400","0","NEW","2026-07-28",
+"230","M.A AUTO KHOPRA PAR 4 NUMBER","M.A Auto Khopra Par 4 Number","exact","","11570","0","-11570","-1580","NEW","2026-07-01",
+"231","STAR AUTO MALIR","Star Autos Malir","name_map","","145070","189620","44550","0","NEW","2026-07-29",
+"232","UNIQUE TRADERS KALA BOARD","Unique Traders Kala Board","exact","","2600","2600","0","0","AGREES","2026-06-30",
+"233","SHAMIM AUTO KALA BOARD","Shamim Autos Kala Board","name_map","","9631","7056","-2575","-2575","KNOWN (Mgr diff)","2026-07-07",
+"234","QUETTA AUTO SHERPAO","Quetta Autos Sherpao","fuzzy","0.944","15600","15600","0","","AGREES","2026-07-07",""
+"235","QUETTA AUTO BHAINS COLONY","Quetta Autos Bhains Colony","fuzzy","0.957","4450","0","-4450","","NEW","2026-07-31",""
+"236","QUETTA AUTO SHAHLATIF","Quetta Autos Shah Latif","name_map","","25300","33300","8000","-20000","NEW","2026-07-22",
+"237","J&B AUTO SHAH LATIF","J & B Autos Shah Latif","name_map","","0","20600","20600","-10000","NEW","2026-07-22",
+"238","IMRAN AUTO SHER PAO","Imran Auto Sher Pao","exact","","67350","51450","-15900","0","NEW","2026-07-31",
+"239","AL-HAJ AUTO MANSERA COLONY","Al-Haj Auto Mansehra Colony","name_map","","4800","23100","18300","-5000","NEW","2026-07-22","23 June payment of 5000 not recorded by Shoaib"
+"240","AKBER AUTO LIYARI 36","Akbar Auto Liyari 36","fuzzy","0.941","0","0","0","","AGREES","2026-05-12",""
+"241","RAJPUT AUTO ORANGI W/RIM","Rajput Autos Sabri Chowk (Wheel Rim)","name_map","","24300","5660","-18640","0","NEW","2026-04-07",
+"242","KING AUTO BEHAR COLONY","King Auto Behar Colony","exact","","10240","1840","-8400","0","NEW","2026-07-30",
+"243","KAZIM AUTO BAG E KORANGI","Kazim Auto Bagh-e-Korangi","name_map","","104236.25","29690","-74546.25","0","NEW","2026-07-24",
+"244","SAHIBZADA AUTO 89 MKT","Sahibzada Auto 89 Market","name_map","","3450","3450","0","0","AGREES","2026-07-01",
+"245","IMRAN AUTO MALIR","Imran Auto Malir","exact","","24000","24000","0","0","AGREES","2026-07-08",
+"246","NASIR AUTO PEOPELS CHORANGI","Nasir Autos Peoples Chowrangi","name_map","","13645","39645","26000","0","NEW","2026-07-22",
+"247","RIZWAN AUTO AZEEM PURA","Rizwan Autos Azeem Pura","fuzzy","0.95","5500","10500","5000","","NEW","2026-07-31",""
+"248","FAISAL AUTO AZEEM PURA","Faisal Autos Azeem Pura","name_map","","3300","9300","6000","0","NEW","2026-07-17",
+"250","MOHSIN ZIP SHOP","","","","0","","","","NOT IN ODOO","2026-04-13",""
+"251","KARACHI AUTO QUAIDABAD","Karachi Autos Quaidabad","name_map","","9096","20000","10904","-8200","NEW","2026-07-24",
+"252","OKASHA MEHAR","Okasha Mehar","exact","","0","0","0","","AGREES","2026-05-25",""
+"253","IZZAT AGA AUTO RABIA CITY","Izzat Agha Autos Rabia City","name_map","","66900","27650","-39250","0","NEW","2026-07-27",
+"254","WARSI AUTO NAZIMABAD","Warsi Auto Nazimabad","exact","","16600","21600","5000","0","NEW","2026-07-30",
+"255","BABA & SONS KORANGI 5/2","Baba And Sons Korangi 5/2","name_map","","9450","1050","-8400","0","NEW","2026-07-20",
+"256","PARTS WALA AUTO LANDHI 6","Parts Wala Auto Landhi 6","exact","","11100","23100","12000","-7000","NEW","2026-07-30",
+"257","FAISAL M.S.A.A. TRADERS","","","","700","","","","NOT IN ODOO","2026-04-18",
+"259","IMRAN AUTO PEHALWAN GOTH","Imran Autos Pehalwan Goth","name_map","","21750","47750","26000","0","NEW","2026-07-27",
+"260","ASAD AUTO MALIR","Asad Autos Malir","name_map","","2000","6350","4350","0","NEW","2026-07-21",
+"261","KASHIF R-K SHAH LATIF","","","","109800","","","","NOT IN ODOO","2026-04-21",
+"262","KASHIF R-K W/RIM","Kashif R-K W/RIM","exact","","16000","1600","-14400","0","NEW","2026-04-21",
+"263","AL-MADINA AUTO WATER PUMP","Al-Madina Autos Water Pump","name_map","","26000","26000","0","0","AGREES","2026-06-27",
+"264","NOOR AUTO JHUDDO","Noor Autos Jhuddo","name_map","","0","57730","57730","0","NEW","2026-07-24",
+"265","ARIF AUTO RAHIM YAR KHAN","Arif Autos Rahim Yar Khan","name_map","","5580","5000","-580","-580","KNOWN (Mgr diff)","2026-06-15",
+"266","MADNI AUTO PEHALWAN GOTH","Madni Autos Pehalwan Goth","name_map","","71490","49900","-21590","-5300","NEW","2026-07-20",
+"267","HAFIZ AUTO PEHALWAN GOTH","Hafiz Autos Pehalwan Goth","name_map","","21655","13395","-8260","7390","NEW","2026-07-20",
+"268","HANAN AUTO NAZIMABAD","Hanan Auto Nazimabad","exact","","13075","2745","-10330","","NEW","2026-05-25",""
+"269","M/S AUTO SACHAL","M/S Auto Sachal","exact","","10640","10640","0","0","AGREES","2026-07-13",
+"270","SARWAR AUTO PEOPELS CHOWRANGI","Sarwar Autos People's Chowrangi","name_map","","14370","12510","-1860","0","NEW","2026-07-30",
+"271","SALEEM AUTO PEOPELS CHOWRANGI","Saleem Autos Peoples Chowrangi","fuzzy","0.889","-5","-5005","-5000","","NEW","2026-06-03",""
+"272","KAMRAN AUTO SHEHDAD KOT","Kamran Autos Shehdad Kot","name_map","","2940","2940","0","0","AGREES","2026-07-09",
+"273","RIZWAN AUTO MALIR","Rizwan Autos Malir","name_map","","56320","38620","-17700","0","NEW","2026-07-28",
+"274","A.M AUTO MALIR","A.M Autos Malir","name_map","","8650","15190","6540","1580","NEW","2026-07-14","1580 payment missing from manager made on 15 june"
+"275","MUNAWAR GUMBHAT","Munawar Ghambat","name_map","","47350","77350","30000","0","NEW","2026-07-17",
+"276","REHAN AUTO SHAH FAISAL","Rehan Autos Shah Faisal","name_map","","15781","30781","15000","0","NEW","2026-07-31",
+"277","NASIR MAQBOOL MKT","Nasir Maqbool DTL","name_map","","10320","10320","0","0","AGREES","2026-05-14",
+"278","SHOAIB AUTO SACHAL","Shoaib Auto Sachal","exact","","25","25","0","0","AGREES","2026-07-13",
+"279","HABIB AUTO MAYMAR","Habib Auto Maymar","exact","","4060","4060","0","3060","AGREES","2026-06-29",
+"280","MINHAJ AUTO MAYMAR","Minhaj Auto Maymar","exact","","14200","24196","9996","0","NEW","2026-07-27",
+"281","SUBHAN ALLAH AUTO SACHAL","Subhan Allah Autos Sachal","name_map","","67700","24700","-43000","0","NEW","2026-07-27",
+"282","SALEEM AUTO MAYMAR","Saleem Auto Maymar","exact","","13700","28700","15000","5000","NEW","2026-07-27",
+"284","SAMI AUTO GULLSHAN 13D","Sami Auto Gulshan 13-D","fuzzy","0.947","0","10","10","","NEW","2026-06-27",""
+"285","K.K AUTO RABIA CITY","K.K Autos Rabia City","name_map","","51070.5","60520","9449.5","0","NEW","2026-07-27",
+"286","QUETTA AUTO BAKRA PIRI MALIR","Quetta Auto Bakra Piri Malir","exact","","0","0","0","0","AGREES","2026-07-07",
+"287","HAFEEZ AUTO GHAZI GOTH","Hafeez Auto Ghazi Goth","exact","","122440","88350","-34090","0","NEW","2026-07-27",
+"289","GHAZI AUTO PEHALWAN GOTH","Ghazi Autos Pehalwan Goth","name_map","","39740","41740","2000","0","NEW","2026-07-27",
+"290","AHSAN AUTO PEHALWAN GOTH","Ahsan Autos Pehalwan Goth","name_map","","5250","5250","0","0","AGREES","2026-05-11",
+"291","FAISAL AUTO PEHAWAN GOTH","Faisal Auto Pehalwan Goth","name_map","","8900","13900","5000","0","NEW","2026-07-28",
+"292","AL-REHMAN AUTO MALIR","Al-Rehman Auto Malir","exact","","16645","26500","9855","4000","NEW","2026-07-29","26 may payment of 4000 not recorded by akber"
+"293","SIDDIQUE AUTO LANDHI","Siddique Auto Landhi","exact","","4970","-1680","-6650","","NEW","2026-07-31",
+"294","KAZIM AUTO BAG E KORANGI W/RIM","","","","0","","","","NOT IN ODOO","2026-05-21",""
+"295","SIDDIQUE AUTO BILAL COLONY","Siddique Auto Bilal Colony","exact","","26925","30500","3575","19550","NEW","2026-07-30",
+"296","ARIF AUTO TALHAR","Arif Autos Talhar","name_map","","-5800","-5800","0","0","AGREES","2026-07-02",
+"297","AWAMI AUTO FAQEERA GOTH","Awami Autos Faqeera Goth","name_map","","3204","6204","3000","0","NEW","2026-07-13",
+"298","IQBAL AUTO QAIDABAD","Iqbal Autos Quaidabad","name_map","","20848","35348","14500","7000","NEW","2026-07-20",
+"299","HASHTAG TRADERS LANDHI 6","","","","84525","","","","NOT IN ODOO","2026-07-20",""
+"300","RAZA AUTO MALIR","Raza Autos Malir","name_map","","5900","5900","0","0","AGREES","2026-06-10",
+"301","MAKKA KORANGI #3 W/R","Makka Autos Korangi 3 Number (Wheel Rim)","name_map","","8520","8520","0","0","AGREES","2026-05-18",
+"302","SARWAR AUTO W/RIM","Sarwar Autos People's Chowrangi (Wheel Rim)","name_map","","4200","4200","0","0","AGREES","2026-05-18",
+"303","UNIQUE AUTO LANDHI W/RIM","","","","0","","","","NOT IN ODOO","2026-06-27",""
+"304","A.R AUTO KORANGI W/RIM","A.R Autos Bagh-e-Korangi (Wheel Rim)","name_map","","8400","8400","0","0","AGREES","2026-05-18",
+"305","ALI AUTO ISLAM CHOWK W/RIM","Ali Autos Islam Chowk (Wheel Rim)","name_map","","92886","77600","-15286","0","NEW","2026-07-28",
+"307","SUBHAN AUTO 13D W/RIM","Subhan Auto Gulshan 13D (Wheel Rim)","name_map","","100","8100","8000","1000","NEW","2026-07-01",
+"308","SHAN AUTO MALIR","Shan Auto Malir","exact","","16120","3570","-12550","0","NEW","2026-07-14",
+"309","AHMED RAZA REHMANIA W/RIM","Ahmed Raza Autos Rehmania Mor (Wheel Rim)","name_map","","25950","25950","0","0","AGREES","2026-06-02",
+"310","TIGER AUTO LUCKY STAR","Tiger Autos Lucky Star","name_map","","9550","15550","6000","0","NEW","2026-07-30",
+"311","INSAF AUTO LIYARI 36","Insaf Autos Liyari 36","name_map","","24849","405","-24444","0","NEW","2026-07-27",
+"312","OSAMA ISLAM CHOWK W/RIM","Osama Islam Chowk (Wheel Rim)","name_map","","8700","8700","0","0","AGREES","2026-06-08",
+"313","INSAF LIYARI 36 W/RIM","Insaf Autos Liyari 36 (Wheel Rim)","name_map","","150","150","0","0","AGREES","2026-07-06",
+"314","DANIYAL AUTO AZAM BASTI","Daniyal Autos Azam Basti","name_map","","29400","29400","0","0","AGREES","2026-06-08",
+"315","SHAYAN AUTO UP W/RIM","Shayan Autos UP  (Wheel Rim)","name_map","","23560","38560","15000","0","NEW","2026-07-16",
+"316","ASLAM AUTO MAJEED COLONY","Aslam Auto Majeed Colony","exact","","22750","27750","5000","0","NEW","2026-07-22",
+"317","MAST QALANDAR AUTO MATLI","","","","15050","","","","NOT IN ODOO","2026-06-10",
+"318","B.S AUTO VINDER","B.s Auto Vinder","exact","","14300","14300","0","0","AGREES","2026-06-11",
+"319","BILAL JAN AUTO GAWADAR","Bilal Jan Autos Gawadar","name_map","","0","44840","44840","0","NEW","2026-07-15",
+"320","SHAHZAD AUTO GAWADAR","Shahzad Auto Gawadar","exact","","209237.75","90677.75","-118560","-0.25","NEW","2026-07-21",
+"321","NASEER AUTO LIYARI 36","Naseer Auto Liyari 36","exact","","15034","0","-15034","0","NEW","2026-07-27",
+"322","MIRAJ AUTO M.KHAN GOTH","Miraj Auto M.Khan Goth","exact","","15450","22450","7000","0","NEW","2026-07-20",
+"323","MAKRAN AUTO TURBAT","Makran Auto Turbat","exact","","760","114760","114000","0","NEW","2026-07-20",
+"324","DODA AUTO TURBAT","Doda Auto Turbat","exact","","134403","134403","0","0","AGREES","2026-06-16",
+"325","ARYAN AUTO SUJAWAL","","","","45000","","","","NOT IN ODOO","2026-06-16",
+"327","AJMERI AUTO SINDHI HOTEL","Ajmeri Autos Sindhi Hotel","name_map","","8125","19125","11000","0","NEW","2026-07-30",
+"330","MADINA AUTO QUAIDABAD","Madina Auto Quaidabad","exact","","27130","16080","-11050","0","NEW","2026-07-29",
+"331","M.UMAR AUTO NASIR JUMP KORANGI","M Umar Auto Nasir Jump Korangi","exact","","17900","47900","30000","0","NEW","2026-07-30",
+"332","ALTAF HAIR DRESER","","","","9650","","","","NOT IN ODOO","2026-06-18",
+"333","A-ONE AUTO NUKOT","A-One Auto Naukot","fuzzy","0.929","35200","65200","30000","","NEW","2026-07-24",""
+"334","PAK AUTO SHAHFAISAL SECTOR 22B","Pak Auto Shah Faisal Sector 22B","exact","","48550","68550","20000","0","NEW","2026-07-22",
+"335","MAHROOF AUTO SHAH FAISAL","Mahroof Autos Shah Faisal","name_map","","23550","25550","2000","0","NEW","2026-07-17",
+"336","DEEWAN AUTO SHAH FAISAL","Deewan Auto Shah Faisal","exact","","25390","18890","-6500","0","NEW","2026-07-31",
+"337","NOORANI AUTO SAFORA","Noorani Autos Safora","name_map","","108591.5","93850","-14741.5","0","NEW","2026-08-01",
+"338","REHMAN AUTO JANJAL GOTH","Rehman Autos Janjal Goth","fuzzy","0.952","95100","70800","-24300","","NEW","2026-07-27",""
+"340","HAJI AUTO JAMALI PULL","Haji Auto Jamali Pull","exact","","90550","122550","32000","","NEW","2026-07-27",""
+"341","OWAIS AUTO U.P","Owais Auto U.P","exact","","10000","10000","0","","AGREES","2026-06-30",""
+"342","AWAMI AUTO W/RIM","","","","17000","","","","NOT IN ODOO","2026-07-14",""
+"343","RAZA AUTO PANGRIO","","","","64830","","","","NOT IN ODOO","2026-07-23",""
+"344","KARACHI AUTO MALIR JINNAH SQUA","Karachi Auto Malir Jinnah Square","fuzzy","0.929","5250","5250","0","","AGREES","2026-07-07",""
+"345","SAMI AUTO MALIR KALA BOARD","Sami Auto Malir Kala Board","exact","","13300","13300","0","","AGREES","2026-07-07",""
+"347","S.K AUTO PEHALWAN GOTH","I.S Auto Pehalwan Goth","fuzzy","0.889","10900","0","-10900","","NEW","2026-07-28",""
+"348","MUKHTAR AUTO KAMRAN CHORANGI","","","","0","","","","NOT IN ODOO","2026-07-27",""
+"349","SALEEM AUTO HASNABAD","","","","20700","","","","NOT IN ODOO","2026-07-27",""
+"350","HUZAIFA AUTO KORANGI 5/1","","","","17400","","","","NOT IN ODOO","2026-07-30",""
+"351","QASIM AUTO HUB CHOWKI","Qasim Autos Hub Chowki","fuzzy","0.947","69000","0","-69000","","NEW","2026-07-18",""
+"352","K.K AUTO RABIA CITY W/RIM","","","","16800","","","","NOT IN ODOO","2026-07-18",""
+"353","MUNAWWAR AUTO MALIR","","","","13900","","","","NOT IN ODOO","2026-07-28",""
+"355","A.B AUTO GHANIABAD","","","","24900","","","","NOT IN ODOO","2026-07-27",""
+"356","AMAN AUTO SADI TOWN","","","","104032.5","","","","NOT IN ODOO","2026-07-27",""
+"357","ADIL AUTO UP MARKET","","","","53835","","","","NOT IN ODOO","2026-07-31",""
+"","","Akbar Patti","ODOO ONLY","","","2000","","","ODOO ONLY","",""
+"","","Amir Autos Mirpur Khas","ODOO ONLY","","","4000","","","ODOO ONLY","",""
+"","","Sultan Oil Traders","ODOO ONLY","","","-0.03","","","ODOO ONLY","",""
+"","","Awami Autos Faqeera Goth (Wheel Rim)","ODOO ONLY","","","34000","","","ODOO ONLY","",""
+"","","Danish Autos Korangi","ODOO ONLY","","","5","","","ODOO ONLY","",""
+"","","Attari Autos Korangi 2.5 No.","ODOO ONLY","","","-500","","","ODOO ONLY","",""
+"","","Hashtag Traders Landhi 6 Number","ODOO ONLY","","","37925","","","ODOO ONLY","",""
+"","","Naveed Autos Lakhani Garden","ODOO ONLY","","","2200","","","ODOO ONLY","",""
+"","","Madina Autos Safoora (Shoaib)","ODOO ONLY","","","12300","","","ODOO ONLY","",""
+"","","Azan Autos Jimmy Landhi (Wheel Rim)","ODOO ONLY","","","24000","","","ODOO ONLY","",""
+"","","Japan Autos TMK","ODOO ONLY","","","4800","","","ODOO ONLY","",""
+"","","Khan Shahrukh Autos Korangi (Wheel Rim)","ODOO ONLY","","","2420","","","ODOO ONLY","",""
+"","","Abid Autos Gulshan 13-D","ODOO ONLY","","","23930","","","ODOO ONLY","",""
+"","","A.R.S Sprocket","ODOO ONLY","","","37070","","","ODOO ONLY","",""
+"","","Negative Inventory Clearing","ODOO ONLY","","","382.33","","","ODOO ONLY","",""
+"","","Amanullah Auto Memon Goth","ODOO ONLY","","","-1200","","","ODOO ONLY","",""

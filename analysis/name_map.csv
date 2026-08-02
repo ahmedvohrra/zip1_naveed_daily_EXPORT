@@ -1,0 +1,232 @@
+﻿#,Manager Name,Manager Balance,Naveed Name,Naveed Balance,Difference (Nav − Mgr),Names Match?,Possible Spelling Correction (Naveed → Manager),Status
+1,A-One Auto Naukot,65200,A-One Auto Nukot,65200,0,No,A-One Auto Naukot,Exact match
+2,A.H Autos Orangi L Block,5805,A.H Auto Orangi L Block,8805,3000,No,A.H Autos Orangi L Block,Balance differs,24 april 3000 payment received to be added in naveed
+3,A.M Autos Malir,15190,A.M Auto Malir,13610,-1580,No,A.M Autos Malir,Balance differs,1580 payment missing from manager made on 15 june
+4,A.R Autos Bagh-e-Korangi (Wheel Rim),8400,A.R Auto Korangi W/Rim,8400,0,No,A.R Autos Bagh-e-Korangi (Wheel Rim),Exact match
+5,A.R Autos Bagh-e-Korangi,44570,A.R Autos Bagh-E-Korangi,50020,5450,Yes,A.R Autos Bagh-e-Korangi,Balance differs,"this is some sale return difference, all payments have been reconciled"
+6,Abdul Hadi Autos Drig Road,40975,Abdul Hadi Auto Drig Road,40975,0,No,Abdul Hadi Autos Drig Road,Exact match
+7,Abid Autos Gulshan 13-D,23930,Abid Auto Gullshan 13d,23930,0,No,Abid Autos Gulshan 13-D,Exact match
+8,Abid Autos Lucky Star,28550,Abid Auto Lucky Star,28550,0,No,Abid Autos Lucky Star,Exact match
+9,Adnan Auto fast Waterpump,277750,Adnan Auto Fast,306250,28500,No,Adnan Auto fast Waterpump,Balance differs,"invoice created on 4 may created on manager zip spoke long nipple quantity 80 value 28,500"
+10,Adnan Surjani 7B,350,Adnan Surjani 7b,350,0,Yes,Adnan Surjani 7B,Exact match
+11,Ahmed Raza Autos Rehmania Mor,21210,Ahmed Raza Autos Rehmania Mor,21210,0,Yes,,Exact match
+12,Ahmed Raza Autos Rehmania Mor (Wheel Rim),25950,Ahmed Raza Rehmania W/Rim,25950,0,No,Ahmed Raza Autos Rehmania Mor (Wheel Rim),Exact match
+13,Ahsan Autos Pehalwan Goth,5250,Ahsan Auto Pehalwan Goth,5250,0,No,Ahsan Autos Pehalwan Goth,Exact match
+14,Ajmeri Autos Sindhi Hotel,19125,Ajmeri Auto Sindhi Hotel,19125,0,No,Ajmeri Autos Sindhi Hotel,Exact match
+15,Al-Haj Auto Mansehra Colony,5300,Al-Haj Auto Mansera Colony,10300,5000,No,Al-Haj Auto Mansehra Colony,Balance differs,23 June payment of 5000 not recorded by Shoaib
+16,Al-Karam Auto Market,900,Al-Karam Auto Market,900,0,Yes,,Exact match
+17,Al-Madina Autos Water Pump,26000,Al-Madina Auto Water Pump,26000,0,No,Al-Madina Autos Water Pump,Exact match
+18,Al-Rehman Auto Malir,9000,Al-Rehman Auto Malir,5000,-4000,Yes,,Balance differs,26 may payment of 4000 not recorded by akber
+19,Ali Autos Islam Chowk (Wheel Rim),160000,Ali Auto Islam Chowk W/Rim,160000,0,No,Ali Autos Islam Chowk (Wheel Rim),Exact match
+20,Ali Break Shoe Qayyumabad,31320,Ali Auto Mehmodabad,46320,15000,No,Ali Break Shoe Qayyumabad,Balance differs,22 may payment of 15000 not recorded by shoaib
+21,Ali Autos Islam Chowk,87185,Ali Autos Islam Chowk,87185,0,Yes,,Exact match
+22,Ali Break Shoe Qayyumabad (Wheel Rim),1780,Ali Mehmodabad Wheel Rim,1780,0,No,Ali Break Shoe Qayyumabad (Wheel Rim),Exact match
+23,(not in Manager),,Altaf Hair Dreser,9650,,—,,Not in Manager
+24,Alvi Autos Baldia 4 No.,38100,Alvi Auto Baldia 4 Number,38100,0,No,Alvi Autos Baldia 4 No.,Exact match
+25,Amjad Noor,-9305,Amjad Noor,6550,15855,Yes,,Sign diff (Cr in Mgr)
+26,Ansari Autos Dastagir,15851,Ansari Auto Dastagir,13851,-2000,No,Ansari Autos Dastagir,Balance differs,2000 payment differnce not recoded by akber in manager
+27,Arif Autos Rahim Yar Khan,5000,Arif Auto Rahim Yar Khan,5580,580,No,Arif Autos Rahim Yar Khan,Balance differs
+28,Arif Autos Talhar,94200,Arif Auto Talhar,94200,0,No,Arif Autos Talhar,Exact match
+29,Arif Autos Landhi,209970,Arif Autos Landhi,209970,0,Yes,,Exact match
+30,Arsalan Autos 13-D Gulshan,9450,Arsalan Auto 13d Gullshan,9450,0,No,Arsalan Autos 13-D Gulshan,Exact match
+31,(not in Manager),,Aryan Auto Sujawal,45000,,—,,Not in Manager
+32,Asad Autos Malir,8350,Asad Auto Malir,8350,0,No,Asad Autos Malir,Exact match
+33,Asgher Autos UP,279300,Asgher Auto Up,119300,-160000,No,Asgher Autos UP,Balance differs
+34,Asif Autos Sabzi Mandi,21015,Asif Auto Sabzi Mandi,17370,-3645,No,Asif Autos Sabzi Mandi,Balance differs
+35,Bilal Supplier,100135,Asif Supplier Zip 1,110135,10000,No,,Balance differs
+36,Asim Brothers Market,27800,Asim Brothers Market,17800,-10000,Yes,,Balance differs
+37,Aslam Auto Majeed Colony,27750,Aslam Auto Majeed Colony,27750,0,Yes,,Exact match
+38,Aslam Autos Maripur,43600,Aslam Autos Maripur,43600,0,Yes,,Exact match
+39,Awami Autos Faqeera Goth,21550,Awami Auto Faqeera Goth,21550,0,No,Awami Autos Faqeera Goth,Exact match
+40,Azan Auto Badin,275650,Azan Auto Badin,269700,-5950,Yes,,Balance differs
+41,Azan Autos Jimmy Landhi,26950,Azan Autos Jimmy Landhi,50950,24000,Yes,,Balance differs
+42,B.S Aliyan Autos Water Pump,41580,B.S Aliyan Auto Water Pump,39580,-2000,No,B.S Aliyan Autos Water Pump,Balance differs
+43,B.S Aliyan Autos Water Pump ( Wheel Rim),8120,B.S Aliyan Water Pump W/Rim,8120,0,No,B.S Aliyan Autos Water Pump ( Wheel Rim),Exact match
+44,B.S Autos Azizabad,37050,B.S Auto Azizabad,37050,0,No,B.S Autos Azizabad,Exact match
+45,B.S Autos Farzan Bakery Korangi,24725,B.S Auto Farzan Bak Korangi,24725,0,No,B.S Autos Farzan Bakery Korangi,Exact match
+46,B.s Auto Vinder,14300,B.S Auto Vinder,14300,0,Yes,B.s Auto Vinder,Exact match
+47,B.S Bakhtawar Goth,10600,B.S Bakhtawar Goth,10600,0,Yes,,Exact match
+48,B.S Korangi 4 POL (Shoaib),20550,B.S Korangi 4 Pool,20550,0,No,B.S Korangi 4 POL (Shoaib),Exact match
+49,Baba And Sons Korangi 5/2,10500,Baba & Sons Korangi 5/2,10500,0,No,Baba And Sons Korangi 5/2,Exact match
+50,Babu Autos Sindhi Hotel,67290,Babu Auto Sindhi Hotel,77290,10000,No,Babu Autos Sindhi Hotel,Balance differs
+51,Bhatti Autos Gulshan Block 2,14300,Bhatti Auto Gulshan Blk 2,14300,0,No,Bhatti Autos Gulshan Block 2,Exact match
+52,Bhittai Autos Samaro,70491,Bhittai Autos Samaro,70500,9,Yes,,Balance differs
+53,Bilal Jan Autos Gawadar,44840,Bilal Jan Auto Gawadar,44840,0,No,Bilal Jan Autos Gawadar,Exact match
+54,Bismillah Autos Water Pump,31390,Bismillah Auto Water Pump,31390,0,No,Bismillah Autos Water Pump,Exact match
+55,Daniyal Autos Azam Basti,29400,Daniyal Auto Azam Basti,29400,0,No,Daniyal Autos Azam Basti,Exact match
+56,Deewan Auto Shah Faisal,14140,Deewan Auto Shah Faisal,14140,0,Yes,,Exact match
+57,Doda Auto Turbat,134403,Doda Auto Turbat,134403,0,Yes,,Exact match
+58,Faisal Autos Azeem Pura,20300,Faisal Auto Azeem Pura,20300,0,No,Faisal Autos Azeem Pura,Exact match
+59,Faisal Auto Pehalwan Goth,13900,Faisal Auto Pehawan Goth,13900,0,No,Faisal Auto Pehalwan Goth,Exact match
+60,Faisal Autos Korangi,720,Faisal Autos Korangi,720,0,Yes,,Exact match
+61,(not in Manager),,Faisal M.S.A.A. Traders,700,,—,,Not in Manager
+62,Farhan Autos Water Pump,1680,Farhan Auto Water Pump,680,-1000,No,Farhan Autos Water Pump,Balance differs
+63,Farhan Autos Water Pump (Wheel Rim),920,Farhan W/P Wheel Rim,920,0,No,Farhan Autos Water Pump (Wheel Rim),Exact match
+64,Farooq Autos Shah Faisal,20000,Farooq Auto Shah Faisal,20000,0,No,Farooq Autos Shah Faisal,Exact match
+65,Ghazi Autos Pehalwan Goth,32740,Ghazi Auto Pehalwan Goth,32740,0,No,Ghazi Autos Pehalwan Goth,Exact match
+66,Ghazi Autos Golarchi,68700,Ghazi Autos Golarchi,95100,26400,Yes,,Balance differs
+67,Ghosia Jhudoo,37400,Ghousia Auto Jhuddo,37400,0,No,Ghosia Jhudoo,Exact match
+68,Habib Auto Maymar,13800,Habib Auto Maymar,10740,-3060,Yes,,Balance differs
+69,Hadia K1 North Nazimabad,58350,Hadia K1 North Nazimabad,55100,-3250,Yes,,Balance differs
+70,Hafeez Auto Ghazi Goth,6750,Hafeez Auto Ghazi Goth,6750,0,Yes,,Exact match
+71,Hafeez Autos Khan Bela,131000,Hafeez Auto Khan Bela,131000,0,No,Hafeez Autos Khan Bela,Exact match
+72,Hafiz Autos Pehalwan Goth,13395,Hafiz Auto Pehalwan Goth,6005,-7390,No,Hafiz Autos Pehalwan Goth,Balance differs
+73,Haji Iqbal Qureshi Autos UP,25000,Haji Iqbal Qureshi U.P,25000,0,No,Haji Iqbal Qureshi Autos UP,Exact match
+74,Hammad Surjani,50,Hammad Surjani,50,0,Yes,,Exact match
+75,Al-Hamza Autos Mosamiyat,92280,Hamza Auto Mosmiyat,92280,0,No,Al-Hamza Autos Mosamiyat,Exact match
+76,Hamza Autos Surjani,21400,Hamza Auto Surjani,21400,0,No,Hamza Autos Surjani,Exact match
+77,Hamza Khan Autos Orangi Town,78570,Hamza Khan Autos Orangi Town,68820,-9750,Yes,,Balance differs
+78,Hamza Khan Autos Islam Chowk (Wheel Rim),25050,Hamza Khan Wheel Rim,24800,-250,No,Hamza Khan Autos Islam Chowk (Wheel Rim),Balance differs
+79,Hasnain Autos Korangi 51-A,31480,Hasnain Auto Korangi 51 A,30180,-1300,No,Hasnain Autos Korangi 51-A,Balance differs
+80,Honda Autos Karachi Pakistan Chowk,112055,Honda Karachi Pakistan Chowk,106855,-5200,No,Honda Autos Karachi Pakistan Chowk,Balance differs
+81,Huma Autos Korangi,1950,Huma Auto Korangi,1950,0,No,Huma Autos Korangi,Exact match
+82,Hussain Autos Shah Faisal,222295,Hussain Auto Shah Faisal,215075,-7220,No,Hussain Autos Shah Faisal,Balance differs
+83,Imran Autos Faqeera Goth,87400,Imran Auto Faqeera Goth,87400,0,No,Imran Autos Faqeera Goth,Exact match
+84,Imran Auto Malir,5000,Imran Auto Malir,5000,0,Yes,,Exact match
+85,Imran Autos Pehalwan Goth,47750,Imran Auto Pehalwan Goth,47750,0,No,Imran Autos Pehalwan Goth,Exact match
+86,Imran Auto Sher Pao,22250,Imran Auto Sher Pao,22250,0,Yes,,Exact match
+87,Insaf Autos Liyari 36,27405,Insaf Auto Liyari 36,27405,0,No,Insaf Autos Liyari 36,Exact match
+88,Insaf Autos Liyari 36 (Wheel Rim),33150,Insaf Liyari 36 W/Rim,33150,0,No,Insaf Autos Liyari 36 (Wheel Rim),Exact match
+89,Iqbal Autos Baldia 4 No.,-6020,Iqbal Auto Baldia,980,7000,No,Iqbal Autos Baldia 4 No.,Sign diff (Cr in Mgr)
+90,Iqbal Autos Quaidabad,36248,Iqbal Auto Qaidabad,29248,-7000,No,Iqbal Autos Quaidabad,Balance differs
+91,Irfan Auto Shah Faisal,15063,Irfan Auto Shah Faisal,15063,0,Yes,,Exact match
+92,Izzat Agha Autos Rabia City,51650,Izzat Aga Auto Rabia City,51650,0,No,Izzat Agha Autos Rabia City,Exact match
+93,J & B Autos Shah Latif,50600,J&B Auto Shah Latif,60600,10000,No,J & B Autos Shah Latif,Balance differs
+94,Jameel Autos Lee Market,90500,Jameel Autos Lee Market,90500,0,Yes,,Exact match
+95,Japan Autos Water Pump,1040,Japan Auto Water Pump,1040,0,No,Japan Autos Water Pump,Exact match
+96,Junaid Autos Agra Taj,23950,Junaid Auto Agra Taj,23950,0,No,Junaid Autos Agra Taj,Exact match
+97,Junaid Autos Shah Faisal,39600,Junaid Auto Shahfaisal,39600,0,No,Junaid Autos Shah Faisal,Exact match
+98,K.K Autos Rabia City,60520,K.K Auto Rabia City,60520,0,No,K.K Autos Rabia City,Exact match
+99,Kamran Autos Shehdad Kot,64600,Kamran Auto Shehdad Kot,64600,0,No,Kamran Autos Shehdad Kot,Exact match
+100,Karachi Autos Quaidabad,30000,Karachi Auto Quaidabad,38200,8200,No,Karachi Autos Quaidabad,Balance differs
+101,Kartar Autos Chouhar Jamali,7500,Kartar Auto Chouarjamali,7500,0,No,Kartar Autos Chouhar Jamali,Exact match
+102,(not in Manager),,Kashif R-K Shah Latif,600,,—,,Not in Manager
+103,Kashif R-K W/RIM,1600,Kashif R-K W/Rim,1600,0,Yes,Kashif R-K W/RIM,Exact match
+104,Kazim Auto Bagh-e-Korangi,44690,Kazim Auto Bag E Korangi,44690,0,No,Kazim Auto Bagh-e-Korangi,Exact match
+105,Khalil Auto Rabia City,13875,Khalil Auto Rabia City,18875,5000,Yes,,Balance differs
+106,Khan Autos Peoples Chowrangi,6500,Khan Auto Peopels Chowrangi,4500,-2000,No,Khan Autos Peoples Chowrangi,Balance differs
+107,Khan Shahrukh Autos Korangi,5050,Khan Shahrukh Auto Korangi,5050,0,No,Khan Shahrukh Autos Korangi,Exact match
+108,Khataomal Pangrio,243500,Khataomal Pangrio,206500,-37000,Yes,,Balance differs
+109,King Auto Behar Colony,1840,King Auto Behar Colony,1840,0,Yes,,Exact match
+110,Lucky Autos WaterPump,26000,Lucky Auto Water Pump,26000,0,No,Lucky Autos WaterPump,Exact match
+111,M Umer Badeen,387800,M Umer Badin,387800,0,No,M Umer Badeen,Exact match
+112,M.A Auto Khopra Par 4 Number,0,M.A Auto Khopra Par 4 Number,1580,1580,Yes,,Balance differs
+113,M.A Autos Liyari 36,50,M.A Auto Liyari 36,50,0,No,M.A Autos Liyari 36,Exact match
+114,M.A Autos UP,80380,M.A Auto Up,80380,0,No,M.A Autos UP,Exact match
+115,M.S Murad Orangi,140,M.S Murad Orangi,140,0,Yes,,Exact match
+116,M Umar Auto Nasir Jump Korangi,47900,M.Umar Auto Nasir Jump Korangi,47900,0,No,M Umar Auto Nasir Jump Korangi,Exact match
+117,M/S Auto Gulshan 13-D (Wheel Rim),10650,M/S Auto 13d W/Rim,10650,0,No,M/S Auto Gulshan 13-D (Wheel Rim),Exact match
+118,M/S Auto Gulshan 13-D,77800,M/S Auto Gullshan 13d,77800,0,No,M/S Auto Gulshan 13-D,Exact match
+119,M/S Auto Sachal,16640,M/S Auto Sachal,16640,0,Yes,,Exact match
+120,Madina Auto Azizabad,15690,Madina Auto Azizabad,8690,-7000,Yes,,Balance differs
+121,Madina Auto Quaidabad,26080,Madina Auto Quaidabad,26080,0,Yes,,Exact match
+122,Madni Autos Pehalwan Goth,49900,Madni Auto Pehalwan Goth,55200,5300,No,Madni Autos Pehalwan Goth,Balance differs
+123,Mahroof Autos Shah Faisal,27550,Mahroof Auto Shah Faisal,27550,0,No,Mahroof Autos Shah Faisal,Exact match
+124,Makka Autos Korangi 3 Number,26550,Makka Auto Korangi 3 Number,22350,-4200,No,Makka Autos Korangi 3 Number,Balance differs
+125,Makka Autos Korangi 3 Number (Wheel Rim),8520,Makka Korangi #3 W/R,8520,0,No,Makka Autos Korangi 3 Number (Wheel Rim),Exact match
+126,Makran Auto Turbat,114760,Makran Auto Turbat,114760,0,Yes,,Exact match
+127,Malik Auto Lines Area,34620,Malik Auto Lines Area,34620,0,Yes,,Exact match
+128,Mama A-1 Gulshan 13-D,5060,Mama A-1 Gulshan 13d,60,-5000,No,Mama A-1 Gulshan 13-D,Balance differs
+129,Mama Ashfaq Badin,1090,Mama Ashfaq Badin,1090,0,Yes,,Exact match
+130,Mama Jamali Autos Badin,44000,Mama Jamali Auto Badin,44000,0,No,Mama Jamali Autos Badin,Exact match
+131,(not in Manager),,Mast Qalandar Auto Matli,15050,,—,,Not in Manager
+132,Minhaj Auto Maymar,15200,Minhaj Auto Maymar,15200,0,Yes,,Exact match
+133,Miraj Auto M.Khan Goth,22450,Miraj Auto M.Khan Goth,22450,0,Yes,,Exact match
+134,Munawar Ghambat,112350,Munawar Gumbhat,112350,0,No,Munawar Ghambat,Exact match
+136,Naseer Auto Liyari 36,59700,Naseer Auto Liyari 36,59700,0,Yes,,Exact match
+137,Naseer Auto Vinder,35936,Naseer Auto Vinder,35936,0,Yes,,Exact match
+138,Nasir Autos Orangzaib Market,50,Nasir Auto Orangzaib Market,50,0,No,Nasir Autos Orangzaib Market,Exact match
+139,Nasir Autos Peoples Chowrangi,39645,Nasir Auto Peopels Chorangi,39645,0,No,Nasir Autos Peoples Chowrangi,Exact match
+140,Nasir Maqbool DTL,10320,Nasir Maqbool Mkt,10320,0,No,Nasir Maqbool DTL,Exact match
+141,New Kakar Autos PIDC,143750,New Kakar Autos Pidc,143750,0,Yes,New Kakar Autos PIDC,Exact match
+142,New Riyaz Autos Liyari 36,1750,New-Riyaz Auto Liyari 36,1750,0,No,New Riyaz Autos Liyari 36,Exact match
+143,Nizam Autos Maymar,12650,Nizam Auto Maymar,12650,0,No,Nizam Autos Maymar,Exact match
+144,Noor Autos Jhuddo,57730,Noor Auto Jhuddo,57730,0,No,Noor Autos Jhuddo,Exact match
+145,Noorani Autos Safora,101350,Noorani Auto Safora,101350,0,No,Noorani Autos Safora,Exact match
+146,Noorani Autos Badin,0,Noorani Autos Badin,68400,68400,Yes,,Balance differs
+147,Osama Islam Chowk,57710,Osama Islam Chowk,57710,0,Yes,,Exact match
+148,Osama Islam Chowk (Wheel Rim),8700,Osama Islam Chowk W/Rim,8700,0,No,Osama Islam Chowk (Wheel Rim),Exact match
+149,Pak Auto Shah Faisal Sector 22B,68550,Pak Auto Shahfaisal Sector 22b,68550,0,No,Pak Auto Shah Faisal Sector 22B,Exact match
+150,Pakistan Autos Quaidabad,41725,Pakistan Auto Quaidabad,41725,0,No,Pakistan Autos Quaidabad,Exact match
+151,Parts Wala Auto Landhi 6,23100,Parts Wala Auto Landhi 6,30100,7000,Yes,,Balance differs
+152,Prince Autos Sakro,3000,Prince Autos Sakro,3000,0,Yes,,Exact match
+153,Qadri Autos Shah Faisal,19580,Qadri Auto Shah Faisal,19580,0,No,Qadri Autos Shah Faisal,Exact match
+154,Qalandri Autos Landhi,75,Qalandri Auto Landhi,75,0,No,Qalandri Autos Landhi,Exact match
+155,Qismat Autos Tando Ghulam Ali,31950,Qismat Auto Tando Ghulam Ali,31950,0,No,Qismat Autos Tando Ghulam Ali,Exact match
+156,Quetta Auto Bakra Piri Malir,13100,Quetta Auto Bakra Piri Malir,13100,0,Yes,,Exact match
+157,Quetta Autos Shah Latif,53300,Quetta Auto Shahlatif,73300,20000,No,Quetta Autos Shah Latif,Balance differs
+158,R.K Auto Market (Shoaib),7500,R-K Auto Market,7000,-500,No,R.K Auto Market (Shoaib),Balance differs
+159,R.R Autos Surjani,58350,R.R Auto Surjani,58350,0,No,R.R Autos Surjani,Exact match
+160,Rahim Bhai Classic Motorcycle,135560,Rahim Bhai Classic Motorcycle,85560,-50000,Yes,,Balance differs
+161,Rajput Autos Sabri Chowk (Wheel Rim),5660,Rajput Auto Orangi W/Rim,5660,0,No,Rajput Autos Sabri Chowk (Wheel Rim),Exact match
+162,Rajput Autos Sabri Chowk,58900,Rajput Auto Sabri Chowk Orangi,58900,0,No,Rajput Autos Sabri Chowk,Exact match
+163,Rana Autos Landhi,392900,Rana Autos Landhi,392900,0,Yes,,Exact match
+164,Rana Autos Landhi (Wheel Rim),960,Rana Landhi W/Rim,960,0,No,Rana Autos Landhi (Wheel Rim),Exact match
+165,Raza Autos Malir,5900,Raza Auto Malir,5900,0,No,Raza Autos Malir,Exact match
+166,Raza Autos Korangi,50800,Raza Autos Korangi,50800,0,Yes,,Exact match
+167,Rehan Autos Shah Faisal,43781,Rehan Auto Shah Faisal,43781,0,No,Rehan Autos Shah Faisal,Exact match
+168,Rehman Autos Ajmer Nagri,19810,Rehman Auto Ajmeer Nagri,23810,4000,No,Rehman Autos Ajmer Nagri,Balance differs
+169,Rider Auto Parts,646714,Rider Auto Parts,646714,0,Yes,,Exact match
+170,Rizwan Autos Malir,47620,Rizwan Auto Malir,47620,0,No,Rizwan Autos Malir,Exact match
+171,Rizwan Supplier Korangi,31420,Rizwan Supplier Korangi,31420,0,Yes,,Exact match
+172,Sahibzada Auto 89 Market,18250,Sahibzada Auto 89 Mkt,18250,0,No,Sahibzada Auto 89 Market,Exact match
+173,Saleem Auto Maymar,17700,Saleem Auto Maymar,12700,-5000,Yes,,Balance differs
+174,Mamu,12280,Saleem Mamu,7000,-5280,No,Mamu,Balance differs
+175,Sarwar Autos People's Chowrangi,12510,Sarwar Auto Peopels Chowrangi,12510,0,No,Sarwar Autos People's Chowrangi,Exact match
+176,Sarwar Autos People's Chowrangi (Wheel Rim),4200,Sarwar Auto W/Rim,4200,0,No,Sarwar Autos People's Chowrangi (Wheel Rim),Exact match
+177,Shafi Auto Gulshan Iqbal,3500,Shafi Auto Gulshan Iqbal,3500,0,Yes,,Exact match
+178,Shafi Auto Memon Goth,51410,Shafi Auto Memon Goth,51410,0,Yes,,Exact match
+179,Shah Ji Autos Peoples Chowk,-1555,Shah Ji Auto Peopels Chowk,1700,3255,No,Shah Ji Autos Peoples Chowk,Sign diff (Cr in Mgr)
+180,Shahzad Auto Gawadar,90677.75,Shahzad Auto Gawadar,90678,0.25,Yes,,Balance differs
+181,Shama Autos Electric Waterpump,2200,Shama Auto Electric W/P,1200,-1000,No,Shama Autos Electric Waterpump,Balance differs
+182,Shamim Autos Kala Board,12056,Shamim Auto Kala Board,14631,2575,No,Shamim Autos Kala Board,Balance differs
+183,Shan Auto Malir,7570,Shan Auto Malir,7570,0,Yes,,Exact match
+184,Shayan Autos UP,43235,Shayan Auto U.P,38785,-4450,No,Shayan Autos UP,Balance differs
+185,Shayan Autos UP  (Wheel Rim),38560,Shayan Auto Up W/Rim,38560,0,No,Shayan Autos UP  (Wheel Rim),Exact match
+186,Sheikh Auto Pehalwan Goth,57640,Sheikh Auto Pehalwan Goth,57640,0,Yes,,Exact match
+187,Shoaib Bhai ZIP 1,10000,Shoaib Ahmed Zip 1,10000,0,No,Shoaib Bhai ZIP 1,Exact match
+188,Shoaib Auto Sachal,23375,Shoaib Auto Sachal,23375,0,Yes,,Exact match
+189,Siddique Auto Bilal Colony,30500,Siddique Auto Bilal Colony,10950,-19550,Yes,,Balance differs
+190,(not in Manager),,Siddique Auto Landhi,11650,,—,,Not in Manager
+191,Sindh Kohli Samaro,7000,Sindh Kohli Samaro,35250,28250,Yes,,Balance differs
+192,Star Autos Malir,162050,Star Auto Malir,162050,0,No,Star Autos Malir,Exact match
+193,Star Autos Maymar,37100,Star Auto Maymar,34000,-3100,No,Star Autos Maymar,Balance differs
+194,Subhan Allah Autos Sachal,34700,Subhan Allah Auto Sachal,34700,0,No,Subhan Allah Autos Sachal,Exact match
+195,Subhan Auto Gulshan 13D (Wheel Rim),8100,Subhan Auto 13d W/Rim,7100,-1000,No,Subhan Auto Gulshan 13D (Wheel Rim),Balance differs
+196,Subhan Auto Gulshan 13D,24750,Subhan Auto Gulshan 13d,25750,1000,Yes,Subhan Auto Gulshan 13D,Balance differs
+197,Sufi Bilal Colony (Wheel Rim),47650,Sufi Bilal Colony Korangi,47650,0,No,Sufi Bilal Colony (Wheel Rim),Exact match
+198,Sumair Autos Golimar,21900,Sumair Auto Golimar,41900,20000,No,Sumair Autos Golimar,Balance differs
+199,Sumair Autos Golimar (Wheel Rim),20880,Sumair Golimar W/Rim,880,-20000,No,Sumair Autos Golimar (Wheel Rim),Balance differs
+200,Taj Autos Mehran Town,18815,Taj Auto Mehran Town 1,18815,0,No,Taj Autos Mehran Town,Exact match
+201,Taj Autos Mehran Town No. 2,41375,Taj Auto Mehran Town 2,44975,3600,No,Taj Autos Mehran Town No. 2,Balance differs
+202,Tayyab Autos Mehmoodabad,17600,Tayyab Auto Mehmodabad,17600,0,No,Tayyab Autos Mehmoodabad,Exact match
+203,Tayyaba Surjani,4900,Tayyaba Auto Surjani,4900,0,No,Tayyaba Surjani,Exact match
+204,Tiger Autos Lucky Star,20550,Tiger Auto Lucky Star,20550,0,No,Tiger Autos Lucky Star,Exact match
+205,Unique Auto Landhi,20100,Unique Autos Landhi,20100,0,No,Unique Auto Landhi,Exact match
+206,Unique Traders Kala Board,21400,Unique Traders Kala Board,21400,0,Yes,,Exact match
+207,Wajahat Supplier Market,47250,Wajahat Supplier Market,1250,-46000,Yes,,Balance differs
+208,Waqas Autos Buffer Zone,12175,Waqas Auto Buffer Zone,12175,0,No,Waqas Autos Buffer Zone,Exact match
+209,Waqas Autos Islam Chowk,248450,Waqas Autos Islam Chowk,238450,-10000,Yes,,Balance differs
+210,Waqar Tyre Shop (Wheel Rim),11050,Waqas Tyre Orangi W/Rim,10800,-250,No,Waqar Tyre Shop (Wheel Rim),Balance differs
+211,Warsi Auto Nazimabad,21600,Warsi Auto Nazimabad,21600,0,Yes,,Exact match
+212,Yasir Autos Sachal Goth,18350,Yasir Autos Sachal Goth,18350,0,Yes,,Exact match
+213,Yousuf Autos Gulshan 13 D,27355,Yousuf Auto Gullshan 13d,45705,18350,No,Yousuf Autos Gulshan 13 D,Balance differs
+214,Yousuf Auto Sato Mal,60560,Yousuf Auto Sato Mail,60560,0,No,Yousuf Auto Sato Mal,Exact match
+215,Zafar Autos Sabzi Mandi,15990,Zafar Auto Sabzi Mandi,15990,0,No,Zafar Autos Sabzi Mandi,Exact match
+216,Zaib Autos Waterpump,64740,Zaib Auto Water Pump,89740,25000,No,Zaib Autos Waterpump,Balance differs
+TOTALS,,9619055.75,,9628085,-73620.75
+MANAGER CUSTOMERS NOT IN NAVEED  (missing from Naveed report),,,,,,,,
+,Manager Name,Manager Balance,,,,,,Status
+,Bilal Supplier,100135,,,,,,Not in Naveed
+,A.R.S Sprocket,37070,,,,,,Not in Naveed
+,Azan Autos Jimmy Landhi (Wheel Rim),24000,,,,,,Not in Naveed
+,A.W Autos Water Pump,8740,,,,,,Not in Naveed
+,Hashtag Traders Landhi 6 Number,6400,,,,,,Not in Naveed
+,Japan Autos TMK,4800,,,,,,Not in Naveed
+,Madina Auto Al-Asif Square,4050,,,,,,Not in Naveed
+,Amir Autos Mirpur Khas,4000,,,,,,Not in Naveed
+,Hanan Auto Nazimabad,2745,,,,,,Not in Naveed
+,Khan Shahrukh Autos Korangi (Wheel Rim),2420,,,,,,Not in Naveed
+,Naveed Autos Lakhani Garden,2200,,,,,,Not in Naveed
+,Sami Auto Gulshan 13-D,10,,,,,,Not in Naveed
+,Danish Autos Korangi,5,,,,,,Not in Naveed
