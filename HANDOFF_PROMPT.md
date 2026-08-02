@@ -49,7 +49,21 @@ Contents — fresh Oracle/ZIP ONE extract at the top level:
 | `customers.csv` | 356 customers with balances and last-activity dates |
 | `products.csv` | product master |
 | `ledger_all.csv` | 3,201 unified transactions (invoices + receipts) |
+| `customers.csv` | 356 customers **with route, salesman, credit limit, address, phone** |
+| `routes.csv` | 10 routes with the salesman on each and customer counts |
+| `collectors.csv` | 9 salesmen/collectors |
+| `payments_out.csv` | 54 supplier payments (money out) |
+| `purchases.csv` / `purchase_lines.csv` | 198 vendor bills, 390 lines |
+| `categories.csv`, `banks.csv`, `dealers.csv` | lookups to decode the IDs |
 | `manifest.txt` | row counts + latest dates — **check this first to confirm data is fresh** |
+
+Route/salesman structure (relevant because Odoo has per-route users set up):
+KARACHI, AHMAD PUR, MASHOOD BHAI ZIP 1, HANIF BHAI ZIP 1, ZIP 1 KARACHI,
+ZIP 1 INTERIOR SINDH, OWAIS BHAI ZIP 1, MANSOOR ZIP 1, WHEEL RIM ROUTE, WAQAS BHAI.
+355 of 356 customers are assigned to a route. Note that several routes (KARACHI,
+ZIP 1 KARACHI, INTERIOR SINDH, OWAIS, WAQAS) all point at the default collector
+"1 On Shop" rather than a named salesman — that may be a data-entry gap in ZIP ONE
+worth confirming with me before it gets mirrored into Odoo.
 
 And `analysis/` holds the reconciliation already completed:
 
