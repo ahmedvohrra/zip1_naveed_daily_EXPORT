@@ -1,4 +1,4 @@
-exported_at=2026-08-02 17:14:16
+exported_at=2026-08-02 17:15:50
 source=ZIP ONE (Oracle SID=new)
 invoice_count=1008
 receipt_count=2193
