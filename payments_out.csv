@@ -54,3 +54,5 @@ cashno,paydate,ccode,name,amount,remarks,collector_id,is_instrument,cheque_no,co
 53,2026-07-31,354,HINA AUTO LAHORE,70000,rcv hanif,1,N,,C
 54,2026-08-01,94,SHAMS BHAI,1833920,,1,N,,C
 55,2026-08-03,288,DANISH JHANGIR,330000,,1,N,,C
+56,2026-08-06,6,GRANDTECH,113000,rcv badin,1,N,,C
+57,2026-08-11,136,CROWN,379080,,1,N,,C

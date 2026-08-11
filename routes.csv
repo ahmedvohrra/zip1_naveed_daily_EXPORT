@@ -1,5 +1,5 @@
 route_id,route_name,collector_id,collector_name,mobile,active,category_id,customer_count
-1,KARACHI,1,1 On Shop,,Y,1,44
+1,KARACHI,1,1 On Shop,,Y,1,45
 2,AHMAD PUR,1,1 On Shop,,Y,1,0
 3,MASHOOD BHAI ZIP 1,6,MASHOOD,,Y,1,50
 4,HANIF BHAI ZIP 1,7,HANIF,,Y,1,74
@@ -8,4 +8,4 @@ route_id,route_name,collector_id,collector_name,mobile,active,category_id,custom
 7,OWAIS BHAI ZIP 1,1,1 On Shop,,Y,21,14
 8,MANSOOR ZIP 1,8,MANSOOR,,Y,21,50
 9,WHEEL RIM ROUTE,9,WHEEL RIM,,Y,21,27
-10,WAQAS BHAI,1,1 On Shop,,Y,21,3
+10,WAQAS BHAI,1,1 On Shop,,Y,21,4
