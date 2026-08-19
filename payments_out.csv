@@ -56,3 +56,7 @@ cashno,paydate,ccode,name,amount,remarks,collector_id,is_instrument,cheque_no,co
 55,2026-08-03,288,DANISH JHANGIR,330000,,1,N,,C
 56,2026-08-06,6,GRANDTECH,113000,rcv badin,1,N,,C
 57,2026-08-11,136,CROWN,379080,,1,N,,C
+58,2026-08-12,329,NAJAM BHAI FAISAL BHAI,25000,m.m enginering difrens,1,N,,C
+59,2026-08-15,329,NAJAM BHAI FAISAL BHAI,11070,afzal auto claim,1,N,,C
+60,2026-08-17,179,A.W AUTO WATER PUMP,2000,,1,N,,C
+61,2026-08-17,6,GRANDTECH,103000,,1,N,,C
