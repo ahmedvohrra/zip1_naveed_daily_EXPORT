@@ -92,3 +92,4 @@ cashno,paydate,ccode,name,amount,remarks,collector_id,is_instrument,cheque_no,co
 91,2026-08-27,94,SHAMS BHAI,16860,,1,N,,C
 92,2026-08-28,213,YOUSUF AUTO GULLSHAN 13D,3815.9,payble zip1 to paid zip,1,N,,C
 93,2026-08-28,267,HAFIZ AUTO PEHALWAN GOTH,3195,rec zip1 payble to paid zip,1,N,,C
+94,2026-08-28,329,NAJAM BHAI FAISAL BHAI,35000,MM DISPUTE,1,N,,C
