@@ -42,7 +42,7 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 44,Dachi Engine Oil 700 ML Carton (BLACK),Pack,1,1,1,Y,10
 45,Dachi Engine Oil 700 ML Carton (RED),Pack,1,1,1,Y,0
 46,ZIP 1 CHAIN KIT GOLD 38-15 CD-70,Pack,1,1,1,Y,-1809
-47,ZIP 1 CHAIN KIT RED 38-15 CD-70,Pack,1,1,1,Y,19
+47,ZIP 1 CHAIN KIT RED 38-15 CD-70,Pack,1,1,1,Y,119
 48,ZIP 1 CHAIN KIT RED 41-14 CD-70,Pack,1,1,1,Y,50
 49,ZIP Spoke 2.25-17,Pack,1,1,1,Y,120
 50,ZIP Spoke 2.50-17,Pack,1,1,1,Y,1533
@@ -51,7 +51,7 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 53,Piston Kit 0.50,Pack,1,1,1,Y,0
 54,Piston Kit 1.00,Pack,1,1,1,Y,0
 55,Piston Kit 1.50,Pack,1,1,1,Y,0
-57,ZIP 1 CHAIN KIT Gold 41-14 CD-70,Pack,21,1,1,Y,29
+57,ZIP 1 CHAIN KIT Gold 41-14 CD-70,Pack,21,1,1,Y,229
 58,c,Pack,,1,1,Y,0
 59,Packing Chain Cover 0.6 mm (ZIP),Pack,21,1,1,Y,-99
 60,CHAIN COVER 0.6MM ZIP 1,Pack,21,1,1,Y,73
@@ -128,7 +128,7 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 132,CHAIN LOCK 530 LINK,Pack,21,1,1,Y,-100
 133,MAGNET PLATE CDI70,Pack,21,1,1,Y,400
 134,COIL PLATE COMPLETE CDI70 ZIP 1,Pack,21,1,1,Y,-23
-135,CARBURETOR PZ27 CDI 125,Pack,21,1,1,Y,24
+135,CARBURETOR PZ27 CDI 125,Pack,21,1,1,Y,22
 136,PISTON GN5/STD,Pack,21,1,1,Y,200
 137,PISTON CG125/50,Pack,21,1,1,Y,0
 138,PISTON CG125/100,Pack,21,1,1,Y,0
