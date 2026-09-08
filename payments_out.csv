@@ -101,3 +101,4 @@ cashno,paydate,ccode,name,amount,remarks,collector_id,is_instrument,cheque_no,co
 100,2026-09-07,143,YOUSUF ENGINERING LHR,10000,,1,N,,C
 101,2026-09-07,131,ROYAL KING R-K,50000,,1,N,,C
 102,2026-09-07,188,ARSALAN IRSHAD LHR,50000,,1,N,,C
+103,2026-09-08,329,NAJAM BHAI FAISAL BHAI,10900,mm dispute,1,N,,C
