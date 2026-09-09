@@ -102,3 +102,5 @@ cashno,paydate,ccode,name,amount,remarks,collector_id,is_instrument,cheque_no,co
 101,2026-09-07,131,ROYAL KING R-K,50000,,1,N,,C
 102,2026-09-07,188,ARSALAN IRSHAD LHR,50000,,1,N,,C
 103,2026-09-08,329,NAJAM BHAI FAISAL BHAI,10900,mm dispute,1,N,,C
+104,2026-09-09,329,NAJAM BHAI FAISAL BHAI,23559,qadeer auto calim plus amount,1,N,,C
+105,2026-09-09,329,NAJAM BHAI FAISAL BHAI,15567,owais 3 party claim plus,1,N,,C
