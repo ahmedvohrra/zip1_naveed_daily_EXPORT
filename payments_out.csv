@@ -108,3 +108,6 @@ cashno,paydate,ccode,name,amount,remarks,collector_id,is_instrument,cheque_no,co
 107,2026-09-10,6,GRANDTECH,60000,rcv hanif,1,N,,C
 108,2026-09-10,6,GRANDTECH,20000,rcv hanif,1,N,,C
 109,2026-09-10,76,ANWER ENGINERING,70000,rcv hanif,1,N,,C
+110,2026-09-14,94,SHAMS BHAI,131000,,1,N,,C
+111,2026-09-14,306,H.D.R LAHORE,120000,,1,N,,C
+112,2026-09-14,131,ROYAL KING R-K,50000,,1,N,,C
