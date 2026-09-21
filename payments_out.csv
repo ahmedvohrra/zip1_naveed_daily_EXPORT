@@ -118,3 +118,5 @@ cashno,paydate,ccode,name,amount,remarks,collector_id,is_instrument,cheque_no,co
 117,2026-09-18,136,CROWN,40000,,1,N,,C
 118,2026-09-18,136,CROWN,18000,,1,N,,C
 119,2026-09-18,136,CROWN,89000,,1,N,,C
+120,2026-09-21,354,HINA AUTO LAHORE,50000,,1,N,,C
+121,2026-09-21,136,CROWN,400000,RCV HANIF,1,N,,C
