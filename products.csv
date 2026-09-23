@@ -6,10 +6,10 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 8,Camshaft JH70,Pack,1,1,1,Y,400
 9,Carton Dachi,Pack,1,1,1,Y,-165
 10,Chain 420-104L ODT (ZIP),Pack,1,1,1,Y,-228
-11,Chain Heavy Duty 420H-104L ODT (ZIP),Pack,1,1,1,Y,-1856
-12,Chain Kit ZIP 1 Box Gold,Pack,1,1,1,Y,-826
+11,Chain Heavy Duty 420H-104L ODT (ZIP),Pack,1,1,1,Y,-2176
+12,Chain Kit ZIP 1 Box Gold,Pack,1,1,1,Y,-1146
 13,Chain Kit ZIP 1 Box Red,Pack,1,1,1,Y,1432
-14,Chain Kit ZIP 1 Carton,Pack,1,1,1,Y,-2441
+14,Chain Kit ZIP 1 Carton,Pack,1,1,1,Y,-2761
 15,Focus CD 70 Double Chrome (ZIP),Pack,1,1,1,Y,0
 16,Gear Transmission CD 70,Pack,1,1,1,Y,300
 17,Lock C-Long 50 mm,Pack,1,1,1,Y,0
@@ -21,20 +21,20 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 23,Spoke 2.25-17,Pack,1,1,1,Y,-164
 24,Spoke 2.50-17,Pack,1,1,1,Y,-1838
 25,Spoke 300-17 Long Nipple,Pack,1,1,1,Y,-4987
-26,Spoke/Chain Packing theli (ZIP),Pack,1,1,1,Y,2019
-27,Sprocket Packing theli (ZIP) Big,Pack,1,1,1,Y,-1699
-28,Sprocket Packing theli (ZIP) Small,Pack,1,1,1,Y,106
+26,Spoke/Chain Packing theli (ZIP),Pack,1,1,1,Y,1699
+27,Sprocket Packing theli (ZIP) Big,Pack,1,1,1,Y,-2019
+28,Sprocket Packing theli (ZIP) Small,Pack,1,1,1,Y,-214
 29,Sticker 700 ml Dachi Oil 700 ML,Pack,1,1,1,Y,-1980
 30,Tags Dachi QR Code,Pack,1,1,1,Y,-1980
 31,ZIP ATF 1L,Pack,1,1,1,Y,-50
 32,ZIP Battery,Pack,1,1,1,Y,0
-33,ZIP Brake Shoe Gold w/o Packing,Pack,1,1,1,Y,-1634
+33,ZIP Brake Shoe Gold w/o Packing,Pack,1,1,1,Y,-1954
 34,ZIP Gear Oil 1 Litre,Pack,1,1,1,Y,-133
 35,ZIP SF/CD 20w50 4 X 4,Pack,1,1,1,Y,0
 36,ZIP SF/CD 20w50 4 X 5,Pack,1,1,1,Y,0
 37,ZIP Sprocket 14-T Black Powder Coating 8 Per Khapa Half Pres,Pack,1,1,1,Y,-502
-38,ZIP Sprocket 15-T Black Powder Coating 8 Per Khapa Half Pres,Pack,1,1,1,Y,-2094
-39,ZIP Sprocket 38-T Black Powder Coating 8 Per Khapa Half Pres,Pack,1,1,1,Y,-2094
+38,ZIP Sprocket 15-T Black Powder Coating 8 Per Khapa Half Pres,Pack,1,1,1,Y,-2414
+39,ZIP Sprocket 38-T Black Powder Coating 8 Per Khapa Half Pres,Pack,1,1,1,Y,-2414
 40,ZIP Sprocket 41-T Black Powder Coating 8 Per Khapa Half Pres,Pack,1,1,1,Y,-1022
 41,Lock C-Long 30 mm,Pack,1,1,1,Y,29
 42,Fuel Cock With Key,Pack,1,1,1,Y,0
@@ -92,14 +92,14 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 96,ZIP 1HEAD COMPLETE EURO,Pack,21,1,1,Y,2
 97,WHEEL RIM SET,Pack,21,1,1,Y,10
 98,ZIP 1 MAGNET COIL RING HERO,Pack,21,1,1,Y,5
-99,ZIP 1 MAGNET COIL RING CDI 70,Pack,21,1,1,Y,1282
-100,ZIP 1 BRAKE SHOE FMC,Pack,1,1,1,Y,266
+99,ZIP 1 MAGNET COIL RING CDI 70,Pack,21,1,1,Y,1245
+100,ZIP 1 BRAKE SHOE FMC,Pack,1,1,1,Y,256
 101,PRESURE PLATE SET-ZIP 1,Pack,21,1,1,Y,557
-102,MAGNET COMPLETE CDI-70 ZIP 1,Pack,21,1,1,Y,-238
+102,MAGNET COMPLETE CDI-70 ZIP 1,Pack,21,1,1,Y,-241
 103,SILENCER ZIP 1,Pack,21,1,1,Y,0
 104,CYLINDER KIT 78CM ZIP 1,Pack,21,1,1,Y,200
 105,CYLINDER KIT 72CM ZIP 1,Pack,21,1,1,Y,12
-106,CYLINDER KIT 97CM ZIP 1,Pack,21,1,1,Y,70
+106,CYLINDER KIT 97CM ZIP 1,Pack,21,1,1,Y,67
 107,BATTERY NS 40,Pack,21,1,1,Y,6
 108,VALVE SEAL CHINA 70,Pack,21,1,1,Y,3640
 109,HAF KIT GREEN CDI-70 ZIP 1,Pack,21,1,1,Y,751
@@ -112,14 +112,14 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 116,REAR SHOCK GENUINE TYPE RED-ZIP 1,Pack,21,1,1,Y,0
 117,REAR SHOCK GENUINE TYPE BLK-ZIP 1,Pack,21,1,1,Y,-20
 118,REAR SHOCK CDI-125 ZIP 1,Pack,21,1,1,Y,30
-119,FRONT SHOCK JH.90 RECO STAR,Pack,21,1,1,Y,11
+119,FRONT SHOCK JH.90 RECO STAR,Pack,21,1,1,Y,5
 120,FRONT SHOCK CDI.70 RECO STAR,Pack,21,1,1,Y,6
 121,REAR SHOCK JH90 BLK RECO STAR,Pack,21,1,1,Y,10
 122,REAR SHOCK CDI70 BLK(H)RECO STAR,Pack,21,1,1,Y,0
-123,ONLY FRY WHEEL MAGNET ZIP 1,Pack,21,1,1,Y,448
+123,ONLY FRY WHEEL MAGNET ZIP 1,Pack,21,1,1,Y,445
 124,FRONT SHOCK CDI125 RECO STAR,Pack,21,1,1,Y,0
 125,SILENCER BEST LIFE,Pack,21,1,1,Y,96
-126,"CARBURETOR PZ 16""ZIP 1""",Pack,21,1,1,Y,87
+126,"CARBURETOR PZ 16""ZIP 1""",Pack,21,1,1,Y,77
 127,"CHAIN COVER""5MM"" ZIP 1",Pack,21,1,1,Y,1
 128,WHEEL RIM REAR,Pack,21,1,1,Y,64
 129,BATTERY 12V ZIP,Pack,21,1,1,Y,4
@@ -136,8 +136,8 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 140,SPARK PLUG NIN C7HSA,Pack,21,1,1,Y,1210
 141,FRONT SHOCK ROD JH90 ZIP 1,Pack,21,1,1,Y,46
 142,REAR SHOCK JH90 RED RECO STAR,Pack,21,1,1,Y,3
-143,CARBURETOR PZ22 ZIP 1,Pack,21,1,1,Y,42
-144,C.D.I GUTKA COIL CDI 70 ZIP1,Pack,21,1,1,Y,482
+143,CARBURETOR PZ22 ZIP 1,Pack,21,1,1,Y,32
+144,C.D.I GUTKA COIL CDI 70 ZIP1,Pack,21,1,1,Y,477
 145,CHAIN KIT 41/14 KIXX,Pack,21,1,1,Y,-50
 146,CHAIN KIT 38/15 KIXX,Pack,21,1,1,Y,-150
 147,PLUG COIL STAR,Pack,21,1,1,Y,0
@@ -148,13 +148,13 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 152,SPROKET SET 41/14,Pack,21,1,1,Y,50
 153,REAR SPROKET 38T,Pack,21,1,1,Y,30
 154,CARBURETOR PZ18 EURO2,Pack,21,1,1,Y,69
-155,SPOKE 2X50X17 ZIP 1,Pack,21,1,1,Y,675
+155,SPOKE 2X50X17 ZIP 1,Pack,21,1,1,Y,635
 156,"CHAIN KIT""CG125"" MAK 4",Pack,21,1,1,Y,67
 157,METER CASE LED SHINE UNIQUE ZIP1,Pack,21,1,1,Y,165
 158,METER CASE LED SHINE SUPER POWER ZIP1,Pack,21,1,1,Y,154
 159,METER CASE LED SHINE SUPER STAR ZIP1,Pack,21,1,1,Y,121
 160,METER CASE LED SHINE HONDA ZIP1,Pack,21,1,1,Y,152
-161,"METER LED SHINE""UNIQUE""ZIP1",Pack,21,1,1,Y,17
+161,"METER LED SHINE""UNIQUE""ZIP1",Pack,21,1,1,Y,12
 162,"METER LED SHINE""HONDA""ZIP1",Pack,21,1,1,Y,1
 163,"METER LED SHINE""SUPER STAR""ZIP1",Pack,21,1,1,Y,0
 164,"METER LED SHINE""SUPER POWER""ZIP1",Pack,21,1,1,Y,0
@@ -163,7 +163,7 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 167,"PIOSTON KIT SOHRAB""100"" ZIP1",Pack,21,1,1,Y,0
 168,"PISTON KIT SOHRAB""150"" ZIP1",Pack,21,1,1,Y,254
 169,"PISTON KIT SOHRAB""100"" ZIP1",Pack,21,1,1,Y,-10
-170,SPOKE 300X17 ZIP 1,Pack,21,1,1,Y,93
+170,SPOKE 300X17 ZIP 1,Pack,21,1,1,Y,53
 171,"METER LED SHINE""HI SPEED"" ZIP1",Pack,21,1,1,Y,0
 172,"PISTON KIT GN5""100"" ZIP 1",Pack,21,1,1,Y,197
 173,"PISTON KIT GN5""STD"" ZIP 1",Pack,21,1,1,Y,197
