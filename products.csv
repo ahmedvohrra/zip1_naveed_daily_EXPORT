@@ -59,7 +59,7 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 63,POLY BAG CLUTCH PLATE CD-70,Pack,1,1,1,Y,-838
 64,Clutch presur plate set zip 1,Pack,1,1,1,Y,201
 65,Clutch plate FCC CD-70 Set,Pack,1,1,1,Y,0
-66,Clutch plate CD-70 Green Set,Pack,1,1,1,Y,-1110
+66,Clutch plate CD-70 Green Set,Pack,1,1,1,Y,-860
 67,ZIP Chain cover 0.6mm,Pack,1,1,1,Y,0
 68,Carburetor Box (ZIP),Pack,1,1,1,Y,-1537
 69,ZIP Carburetor PZ-22,Pack,1,1,1,Y,1080
@@ -113,7 +113,7 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 117,REAR SHOCK GENUINE TYPE BLK-ZIP 1,Pack,21,1,1,Y,-20
 118,REAR SHOCK CDI-125 ZIP 1,Pack,21,1,1,Y,30
 119,FRONT SHOCK JH.90 RECO STAR,Pack,21,1,1,Y,6
-120,FRONT SHOCK CDI.70 RECO STAR,Pack,21,1,1,Y,6
+120,FRONT SHOCK CDI.70 RECO STAR,Pack,21,1,1,Y,-4
 121,REAR SHOCK JH90 BLK RECO STAR,Pack,21,1,1,Y,84
 122,REAR SHOCK CDI70 BLK(H)RECO STAR,Pack,21,1,1,Y,0
 123,ONLY FRY WHEEL MAGNET ZIP 1,Pack,21,1,1,Y,430
@@ -171,3 +171,5 @@ pcode,pname,pack_name,category_id,rate_pack,rate_lose,active,in_hand
 175,"PISTON KIT CDI70""STD""ZIP 1",Pack,21,1,1,Y,200
 176,"PISTON KIT CDI70""100""ZIP 1",Pack,21,1,1,Y,200
 177,WIRING STAR XANADU TAIWAN,Pack,21,1,1,Y,350
+178,"PISTON KIT GN5""50"" ZIP 1",Pack,21,1,1,Y,110
+179,"PISTON KIT CDI70""50"" ZIP1",Pack,21,1,1,Y,191
