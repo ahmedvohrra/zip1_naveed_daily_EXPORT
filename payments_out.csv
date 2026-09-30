@@ -155,3 +155,5 @@ cashno,paydate,ccode,name,amount,remarks,collector_id,is_instrument,cheque_no,co
 154,2026-09-29,94,SHAMS BHAI,110300,,1,N,,C
 155,2026-09-29,94,SHAMS BHAI,89700,RCV ZIP,1,N,,C
 156,2026-09-29,354,HINA AUTO LAHORE,50000,RCV MA UP,1,N,,C
+157,2026-09-30,306,H.D.R LAHORE,70000,rcv rider,1,N,,C
+158,2026-09-30,88,AHSAN JALIL,40000,rcv adnan,1,N,,C
