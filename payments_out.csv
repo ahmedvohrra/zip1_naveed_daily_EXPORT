@@ -160,3 +160,8 @@ cashno,paydate,ccode,name,amount,remarks,collector_id,is_instrument,cheque_no,co
 159,2026-10-01,136,CROWN,103000,rcv zip,1,N,,C
 160,2026-10-01,136,CROWN,44500,rcv zip,1,N,,C
 161,2026-10-01,76,ANWER ENGINERING,30000,rcv zip,1,N,,C
+162,2026-10-03,151,PIRANI ENGINERING,50000,rcv badin,1,N,,C
+163,2026-10-03,131,ROYAL KING R-K,50000,rcv badin,1,N,,C
+164,2026-10-03,306,H.D.R LAHORE,100000,rcv mashood,1,N,,C
+165,2026-10-03,163,HAMID LHR,120000,rcv badin,1,N,,C
+166,2026-10-03,143,YOUSUF ENGINERING LHR,21830,bike ka saman diya,1,N,,C
