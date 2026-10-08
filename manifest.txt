@@ -1,7 +1,7 @@
-exported_at=2026-10-07 14:00:11
+exported_at=2026-10-08 14:00:09
 source=Oracle SID=new
-invoice_count=1402
-receipt_count=3089
-latest_invoice_date=2026-10-07
-latest_receipt_date=2026-10-07
+invoice_count=1407
+receipt_count=3106
+latest_invoice_date=2026-10-08
+latest_receipt_date=2026-10-08
 errors=0
