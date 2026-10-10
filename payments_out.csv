@@ -173,3 +173,6 @@ cashno,paydate,ccode,name,amount,remarks,collector_id,is_instrument,cheque_no,co
 172,2026-10-08,288,DANISH JHANGIR,30000,,1,N,,C
 173,2026-10-08,94,SHAMS BHAI,100000,,1,N,,C
 174,2026-10-09,76,ANWER ENGINERING,21000,rcv mashood,1,N,,C
+175,2026-10-10,37,HANIF SUPPLIER,8914,paid spray payment,1,N,,C
+176,2026-10-10,6,GRANDTECH,48500,rcv mansoor,1,N,,C
+177,2026-10-10,163,HAMID LHR,80000,rcv mansoor,1,N,,C
