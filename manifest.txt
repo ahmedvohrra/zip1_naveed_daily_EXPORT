@@ -1,4 +1,4 @@
-exported_at=2026-10-19 06:09:14
+exported_at=2026-10-19 08:14:24
 source=Oracle SID=new
 invoice_count=1499
 receipt_count=3220
