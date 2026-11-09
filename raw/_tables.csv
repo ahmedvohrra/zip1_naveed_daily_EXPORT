@@ -1,0 +1,67 @@
+table,status,rows_in_oracle,rows_written,columns_written,columns_skipped,files
+ADDA,OK,1,1,3,,ADDA.csv
+AUDIT_TBL,EXCLUDED (audit/sms/app-menu - not accounting),,,,,
+BANK,OK,10,10,3,,BANK.csv
+CASHD1,OK,0,0,8,,CASHD1.csv
+CASHE1,OK,0,0,9,,CASHE1.csv
+CASHI,OK,0,0,8,,CASHI.csv
+CASHOB,OK,1,1,1,,CASHOB.csv
+CASHP1,OK,273,273,20,,CASHP1.csv
+CASHR1,OK,3638,3638,19,,CASHR1.csv
+CASHR_USER,OK,0,0,17,,CASHR_USER.csv
+CASHS,OK,0,0,8,,CASHS.csv
+CASHW1,OK,0,0,8,,CASHW1.csv
+CASHZ1,OK,0,0,8,,CASHZ1.csv
+CASH_DIS0,OK,0,0,7,,CASH_DIS0.csv
+CASH_DIS1,OK,0,0,15,,CASH_DIS1.csv
+CASH_REC0,OK,0,0,11,,CASH_REC0.csv
+CASH_REC1,OK,0,0,23,,CASH_REC1.csv
+CAT,OK,12,12,2,,CAT.csv
+CHECKS,OK,0,0,6,,CHECKS.csv
+CITY,OK,1,1,2,,CITY.csv
+CODES,OK,0,0,2,,CODES.csv
+COLLECTOR,OK,9,9,7,,COLLECTOR.csv
+CUST,OK,513,513,42,,CUST.csv
+CUST2,OK,20,20,9,,CUST2.csv
+DATED,OK,405,405,1,,DATED.csv
+DEALER,OK,12,12,2,,DEALER.csv
+DISC,OK,54,54,4,,DISC.csv
+DISCHEAD0,OK,0,0,2,,DISCHEAD0.csv
+DISCHEAD1,OK,0,0,8,,DISCHEAD1.csv
+GEN,OK,1,1,2,,GEN.csv
+INST,OK,6,6,3,,INST.csv
+INSTALL,OK,0,0,9,,INSTALL.csv
+INV0P,OK,334,334,35,,INV0P.csv
+INV0S,OK,1657,1657,56,,INV0S.csv
+INV1P,OK,690,690,18,,INV1P.csv
+INV1S,OK,5764,5764,24,,INV1S.csv
+INVR0,OK,0,0,35,,INVR0.csv
+INVR1,OK,0,0,15,,INVR1.csv
+KPOS,OK,1,1,8,,KPOS.csv
+LOCAL_VCUSTHIST,OK,20,20,12,,LOCAL_VCUSTHIST.csv
+MAN01,OK,1,1,10,,MAN01.csv
+MAN11,OK,2,2,8,,MAN11.csv
+MAN21,OK,2,2,7,,MAN21.csv
+MENUBANK,EXCLUDED (audit/sms/app-menu - not accounting),,,,,
+MENU_AUTH,EXCLUDED (audit/sms/app-menu - not accounting),,,,,
+MESSAGEIN,EXCLUDED (audit/sms/app-menu - not accounting),,,,,
+MESSAGELOG,EXCLUDED (audit/sms/app-menu - not accounting),,,,,
+MESSAGEOUT,EXCLUDED (audit/sms/app-menu - not accounting),,,,,
+MYAUDIT,EXCLUDED (audit/sms/app-menu - not accounting),,,,,
+MYAUDIT_LOG,EXCLUDED (audit/sms/app-menu - not accounting),,,,,
+MYAUDIT_OST,EXCLUDED (audit/sms/app-menu - not accounting),,,,,
+PACKING,OK,0,0,2,,PACKING.csv
+PROD,OK,188,188,49,IMAGE(LONG RAW),PROD.csv
+PROD0,OK,4621,4621,2,,PROD0.csv
+PROD1,OK,0,0,2,,PROD1.csv
+PROD12,OK,100,100,3,,PROD12.csv
+PROD2,OK,0,0,3,,PROD2.csv
+PROD3,OK,0,0,2,,PROD3.csv
+PRODA,OK,0,0,3,,PRODA.csv
+PROMISE,OK,0,0,5,,PROMISE.csv
+RANGE,OK,109,109,4,,RANGE.csv
+ROLES,EXCLUDED (audit/sms/app-menu - not accounting),,,,,
+ROUTE,OK,14,14,4,,ROUTE.csv
+SERIAL,OK,0,0,2,,SERIAL.csv
+TALLY,OK,0,0,8,,TALLY.csv
+VOUCHERS,OK,0,0,6,,VOUCHERS.csv

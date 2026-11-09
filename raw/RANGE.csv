@@ -1,0 +1,110 @@
+para,vdate,vnumber,vchar
+bdate,2006-02-01 00:00:00,,
+edate,2006-02-01 00:00:00,,
+cdate,2006-02-01 00:00:00,,
+sw,,,Software By: 0300-963 3064
+title,,,ZIP 1
+mydrive,,,d:
+owner,,,owner
+P1,,1,HP LaserJet P2035n
+P3,,0,HP LaserJet P2035n
+P2,,0,HP LaserJet P2035n
+title2,,,Aurangzeb Market
+title3,,,"KARACHI,0336 2711257"
+cbgc,,,r224g7b280
+ibgc,,,r128g224b191
+ifgc,,,r0g64b191
+P,,,P1
+puser,,,N
+mymenu,,,Y
+title1,,,ZIP 1
+losepack,,,N
+ho,,2,
+godown,,,N
+col2,,,CCP-CP-RP
+col3,,,Qty
+col4,,,Pref
+sumno2,,,Y
+dealerid,,2,
+mypath,,,backup
+orderno,,,N
+catidc,,,12
+custlimit,,,N
+adda,,,N
+list1,2025-07-31 00:00:00,,
+list2,2025-07-24 00:00:00,,
+list3,2025-07-11 00:00:00,,
+fcust,,,N
+catida,,,11
+catidb,,,1
+diffinvno,,,Y
+viewbutton,,0,
+printbutton,,1,
+defainv,,3,P1
+defainv1,,3,P1
+fobd,,1,
+invcashd,,,On Sales Inv
+invcashd1,,,D1-On Sale Inv
+invcashd2,,,D2-On Sales Inv
+catidd,,,0
+discstyle,,1,
+bamt,,1,
+biltiexp,,85,
+invcashd3,,,D3-On Sales Inv
+biltichg,,1,
+whtax,,1,
+advtax,,1,
+printcompab,,,N
+allownqty,,,Y
+allowvalue,,,N
+imagepath,,,c:\items-pics\
+refresh,,,Y
+compsele,,,N
+pricestyle,,2,
+P4,,0,Canon LBP2900
+title12,,,ZIP 1
+webmasking,,,ChangeFromSetup
+sms_cashp,,0,
+sms_cashr,,0,
+sms_pinv,,0,
+sms_sinv,,0,
+webuser,,,ChangeFromSetup
+webpw,,,ChangeFromSetup
+wa_instanceid,,,type_instance_id_here
+wapw,,,enter_access_token_here
+wano,,,92300123456
+wa_end,,,Please reply by clicking here wa.me/92300
+whatsapp_invs,,0,d:\\proj\\r600_wa_invoice
+fee,,1,
+srate_exp_ccode,,1,
+showp1,,,Y
+hidedisc,,,N
+show_debt,,,Y
+invcashd4,,,General Discount
+list4,2024-10-22 00:00:00,,
+list5,2025-07-22 00:00:00,,
+creditcard,,,N
+invs_delay,,0,
+creditonly,,,N
+orderby,,1,
+slab1,,7,
+slab2,,14,
+slab3,,21,
+slab4,,28,
+sms_end,,,ZIP 1
+attach_reminder,,,N
+comm_type,,2,
+chk_isdone,,,N
+autobackup,,0,
+wa_delay,,300,
+smsdays,,0,
+sendremarks,,,Y
+sendcollector,,,N
+senddiscount,,,Y
+sendfinalbal,,,Y
+sendmegabal,,,N
+sms_srinv,,0,
+sms_prinv,,0,
+mycatid,,,1
+mycust,2027-01-15 00:00:00,1929,
+myamount_due,,1000,

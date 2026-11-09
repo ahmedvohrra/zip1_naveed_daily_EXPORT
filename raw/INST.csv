@@ -1,0 +1,7 @@
+instid,instname,active
+1,Check,Y
+2,Pay Order,Y
+3,DD,Y
+4,TC,Y
+5,CDR,Y
+10,Online,Y
