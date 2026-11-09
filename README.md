@@ -1,6 +1,6 @@
 # ZIP ONE — daily export of the Naveed (Oracle) database
 
-Refreshed automatically every day (see `manifest.txt` for the time of the last export and the latest invoice/receipt dates).
+Refreshed automatically every day (see `manifest.txt` for the time of the last export - **UTC; Karachi = UTC+5** - and the latest invoice/receipt dates).
 Source: Oracle 10g, SID `new`. Everything here is a read-only copy; nothing is ever written back.
 
 **Purpose:** a complete copy of the accounting data so it can be migrated to Odoo from another machine.

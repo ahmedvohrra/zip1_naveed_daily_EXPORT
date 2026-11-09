@@ -1,3 +1,28 @@
+# >>> CORRECTIONS — READ THIS FIRST (added 2026-11-09) <<<
+
+This briefing was written on 2026-08-02. A deep scan on 2026-11-09 against Naveed's **own** ledger view (`VCUSTHIST1`)
+disproved several statements below. Where this block and the text underneath disagree, **this block wins**.
+Read `README.md` in this repo for the full file guide and the `ttype` legend.
+
+1. **Balances.** `customers.csv` (`total_invoiced`/`total_received`), `ledger_all.csv` and everything derived from
+   *invoices − receipts* are **not** Naveed's balance. They omit discounts, sale returns, invoice-level receipts,
+   cash-sale credits, supplier purchases, expenses and opening balances (wrong for 147 of 513 ZIP ONE accounts, 2,847 of 3,105 in ZIP MAIN).
+   Use **`ledger_naveed.csv`** and **`customer_balances.csv`**; every raw table is in **`raw/`**.
+2. **`INV0S.RETURN2='Y'` is a PURCHASE return** (debit to a *supplier*), not a sale return. The "7 returns" on KAIZEN / ZHOULI ENGINEERING /
+   HAFEEZ ENGINEERING etc. are supplier accounts and must not become customer invoices.
+3. **Sale returns live in the purchase table:** `INV0P` with `RETURN2='Y'` (ZIP ONE: 137 rows ≈ PKR 2.85M of credits to customers; ZIP MAIN: ~2,200 rows ≈ PKR 28.6M).
+   They reduce customer balances and should map to Odoo credit notes. (The 2026-08-02 Odoo backup had only 25 credit notes — check this gap.)
+4. **`INVR0`/`INVR1` are not returns** (retail-style bills). The files `sales_returns.csv`/`sales_return_lines.csv` mentioned elsewhere were mis-named and are gone.
+5. **`CUST` is the whole chart of accounts** (customers, suppliers, expense/capital/withdrawal accounts) — `ZIP` (ccode 14), `RETAIL SALE` (ccode 1),
+   `EXPENSE ACCOUNT`, `CAPITAL …` etc. are accounts, not customers. Classify before creating Odoo partners.
+6. **The August Oracle-vs-Odoo *balance* comparison is invalid** (`BALANCE_COMPARISON.csv`, `CUSTOMER_MAP.csv`, "73 agree / 167 new discrepancies") because the
+   Oracle side used the simplified balance. **Redo it with `customer_balances.csv`.** The invoice-number list (`MISSING_invoices.csv`) is still a valid list of
+   `INV0S` rows but is stale — regenerate from `invoices.csv`/`raw/INV0S.csv`.
+7. **There are two businesses.** ZIP ONE (this repo, SID `new`) and **ZIP MAIN** — repo `zip_main_daily_EXPORT` (SID `main`, 3,105 accounts, ~32,700 invoices, 2018→today).
+8. Invoice amount is still `SUM(QTY*UPRICE)` and `DISC` is still already inside `UPRICE` — but header columns `INVCASHD…`, `INVCASHR`, `BILTICHG`, `BAMT`, `FEE`, `CORD` matter for balances (all in `raw/INV0S.csv`).
+
+---
+
 # ZIP ONE → Odoo Migration — Handoff Briefing
 
 Paste everything below as the first message in a fresh Claude Code conversation
